@@ -24,7 +24,7 @@ Here are some of the features illustrated with screen grabs.
 
 ## Overall Interface
 
-![Interface](Images/Kikoo/Interface.PNG =512x512)
+<img src="Images/Kikoo/Interface.PNG" width="512" />
 
 Shot of the interface of the software. The structure of the software is very much influenced by Unity's. 
 It is all based on an "Entity Component System" pattern.
@@ -36,26 +36,27 @@ Bottom panel is a debugging console
 
 ## Bloom post process
 
-![Bloom Post process](Images/Kikoo/Bloom.png =512x512)
+<img src="Images/Kikoo/Bloom.png" width="512" />
 
 Quite a simple implementation, lots of room for improvement.
 
 ## Depth of field post process
 
-![Dof0](Images/Kikoo/Dof3.png =512x512)
+<img src="Images/Kikoo/Dof3.png" width="512" />
 
 Example of a depth of field with a rather large focus distance.
 
 ## Fast approximate Anti aliasing Post process
 
-![DUDV](Images/Kikoo/NoFxaa.png =512x512) 
-![DUDV](Images/Kikoo/Fxaa.png =512x512)
-
+<p float="left">
+  <img src="Images/Kikoo/NoFxaa.png" width="512" />
+  <img src="Images/Kikoo/Fxaa.png" width="512" /> 
+</p>
 [Clever algorithm](https://en.wikipedia.org/wiki/Fast_approximate_anti-aliasing) that applies some image processing techniques to reduce jaggered edges due to aliasing.
 
 ## Cubemap reflections
 
-![Cubemap](Images/Kikoo/Cubemap.png =512x512)
+<img src="Images/Kikoo/Cubemap.png" width="512" />
 
 ## Directional Flow
 
@@ -81,10 +82,12 @@ The 3 most common types of light are supported :
     * Point
     * Spot
     
-![LowResShadowmap](Images/Kikoo/LowResShadowmap.PNG)
+<img src="Images/Kikoo/LowResShadowmap.PNG" width="512" />
+
 *Example of a low resolution shadow map*
 
-![Shadows](Images/Kikoo/Shadows.PNG)
+<img src="Images/Kikoo/Shadows.PNG" width="512" />
+
 *Higher resolution shadow map*
 
 Soft shadows are achieved using either PCF or poisson disk sampling.
@@ -100,14 +103,14 @@ Several type of materials are built in :
 Lots of room for improvement in that area.
 
 
-![Materials](Images/Kikoo/Materials.PNG)
+<img src="Images/Kikoo/Materials.PNG" width="512" />
 *A few different material parameters*
 
 ## Normal maps
 
 Basic implementation of normal mapping
 
-![NormalMapping](Images/Kikoo/NormalMapping.png)
+<img src="Images/Kikoo/NormalMapping.png" width="512" />
 *Simple plane with displaced normals*
 
 ## Bump mapping
@@ -125,7 +128,11 @@ Basic implementation of bump mapping
 
 Simple particle system that uses texture atlases and billboards.
 
-![Particles_1](Images/Kikoo/Particles.png)  ![Particles_2](Images/Kikoo/Particles_1.png)
+
+<p float="left">
+  <img src="Images/Kikoo/Particles.png" width="512" />
+  <img src="Images/Kikoo/Particles_1.png" width="512" /> 
+</p>
 
 *Same Particle system with two differents particle sizes*
 
