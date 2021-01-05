@@ -118,7 +118,7 @@ Basic implementation of bump mapping
 
 Simple particle system that uses texture atlases and billboards.
 
-![Particles_1](Images/Kikoo/Particles_1.png)  ![Particles_2](Images/Kikoo/Particles_2.png)
+![Particles_1](Images/Kikoo/Particles.png)  ![Particles_2](Images/Kikoo/Particles_1.png)
 * Same Particle system with two differents particle sizes*
 
 ## Volumetric ray marching
@@ -127,9 +127,9 @@ Tried to implement some ray marching for volumetric to render clouds.
 Not 100% satisfied with the result.
 It uses a 3d perlin worley noise.
 
-![1](Images/Clouds/1.png)  ![2](Images/Clouds/2.png)  ![3](Images/Clouds/3.png)  
-![4](Images/Clouds/4.png)  ![4](Images/Clouds/4.png)  ![6](Images/Clouds/6.png)
-![7](Images/Clouds/7.png)  ![8](Images/Clouds/8.png)  ![9](Images/Clouds/9.png)
+![1](Images/Clouds/1.png)  |  ![2](Images/Clouds/2.png)  |  ![3](Images/Clouds/3.png)  
+![4](Images/Clouds/4.png)  |  ![4](Images/Clouds/4.png)  |  ![6](Images/Clouds/6.png)
+![7](Images/Clouds/7.png)  |  ![8](Images/Clouds/8.png)  |  ![9](Images/Clouds/9.png)
 
 
 
