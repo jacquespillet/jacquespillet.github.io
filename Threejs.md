@@ -84,7 +84,7 @@ Experiments on procedurally changing shapes in the vertex shader
 
 ## [Cubes](Threejs/Music/Index.html)
 
-![Cubes](Images/Threejs/Cubes.PNG)
+![Music](Images/Threejs/Music.PNG)
 
 A bug in a perlin noise implementation that looks cool.
 Be great to make it sound reactive somehow.
@@ -93,6 +93,6 @@ Be great to make it sound reactive somehow.
 
 ## [Volume](Threejs/Volume/Index.html)
 
-![Volume](Images/Threejs/Volume.PNG)
+![Volume](Images/Threejs/Cloud.PNG)
 
 Volume ray marching inside a complex mesh ?  Does not really work
