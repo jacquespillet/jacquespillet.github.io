@@ -5,21 +5,28 @@ These are all random micro experiments I've been playing with over the past year
 
 Nothing is optimized in there, some might take some time to load due to assets.
 
-Most of this stuff is running on the GPU, might be slow on some computers.
 
 ## [Simple Cell Shading](Threejs/CellShading/CellShading.html)
 
+![Cell](../Images/Threejs/Cell.PNG)
+
 ## [Charcoal Pen](Threejs/Charcoal/Index.html) : 
 
-Attempt to replicate the look of charcoal pen drawings.
+![Charcoal](../Images/Threejs/Charcoal.PNG)
+
+Attempt to recreate the look of charcoal pen drawings.
 
 ## [Noise](Threejs/Flow2D/Index.html)
+
+![Noise](../Images/Threejs/Noise.PNG)
 
 Just some noise with instanced boxes on top
 
 *Controls on top right*
 
 ## [Flow](Threejs/Flow/index.html)
+
+![Flow2D](../Images/Threejs/Flow2D.PNG)
 
 Combination of Fractal Brownian Motion and Gerstner waves.
 
@@ -33,6 +40,8 @@ Resources :
 
 ## [Fluid surface](Threejs/Fluid/index.html)
 
+![Fluid](../Images/Threejs/Fluid.PNG)
+
 Simple fluid simulation over a surface
 
 *Controls on top right*
@@ -41,19 +50,25 @@ Simple fluid simulation over a surface
 
 ## [Hair](Threejs/Hair/Index.html)
 
+![Hair](../Images/Threejs/Hair.PNG)
+
 Hair simulated with a [position based solver](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-08234-9_92-1).
 
 The colors are accumulated on the screen.
 
 *Controls on top right*
 
-## [Bubble](Threejs/Bubbles/Index.html)
+## [Hair](Threejs/Bubbles/Index.html)
 
-A 2D soft body simulated with a [position based solver](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-08234-9_92-1), using simple distance constraints .
+![Bubble](../Images/Threejs/Bubble.PNG)
+
+A 2D soft body simulated with a [position based solver], using simple distance constraints (https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-08234-9_92-1).
 
 Not 100% working.
 
 ## [Particles](Threejs/Instances/Index.html)
+
+![Particles](../Images/Threejs/Particles.PNG)
 
 Just a lot of cubes flowing in the air following the derivatives of a 3d perlin noise.
 
@@ -61,9 +76,13 @@ Just a lot of cubes flowing in the air following the derivatives of a 3d perlin 
 
 ## [Modifiers](Threejs/Modifiers/index.html)
 
+![Modifiers](../Images/Threejs/Modifiers.PNG)
+
 Experiments on procedurally changing shapes in the vertex shader
 
 ## [Cubes](Threejs/Music/Index.html)
+
+![Cubes](../Images/Threejs/Cubes.PNG)
 
 A bug in a perlin noise implementation that looks cool.
 Be great to make it sound reactive somehow.
@@ -72,4 +91,6 @@ Be great to make it sound reactive somehow.
 
 ## [Volume](Threejs/Volume/Index.html)
 
-Volumetric ray marching inside a complex mesh ?  Does not really work
+![Volume](../Images/Threejs/Volume.PNG)
+
+Volume ray marching inside a complex mesh ?  Does not really work
