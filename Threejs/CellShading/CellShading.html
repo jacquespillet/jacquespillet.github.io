@@ -47,8 +47,7 @@
             varying vec3 fragNormal;
 
             const float excluded_edges=0.1;
-            const vec4 edgeColor = vec4(0.8, 0.8, 0.8, 1.0);
-            const float numEdges=10.0;
+            const float numEdges=6.0;
 
             uniform samplerCube skybox;
             void main()	{
@@ -58,7 +57,7 @@
                 float scaledFactor = floor(factor * numEdges) / numEdges;
 
                 //gl_FragColor = vec4(viewDir, 1);
-                gl_FragColor = textureCube(skybox, fragNormal);
+                gl_FragColor = vec4(0.5, 0.3, 0, 1) + 0.3 *  textureCube(skybox, fragNormal);
                 gl_FragColor *= scaledFactor;
             }
         </script>          
@@ -66,8 +65,16 @@
         <script src="../js/OBJLoader.js"></script>
 		<script>
             var scene = new THREE.Scene();
-
-          
+            scene.background = new THREE.CubeTextureLoader()
+            .setPath( '../assets/cubemaps/sea/' )
+            .load( [
+                'right.jpg',
+                'left.jpg',
+                'top.jpg',
+                'bottom.jpg',
+                'front.jpg',
+                'back.jpg'
+            ]);            
             console.log(scene.background);
 			var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 1000 );
 
@@ -120,9 +127,6 @@
                 
                 material.uniforms.cameraModel.value=camera.matrix;
                 material.uniformsNeedUpdate=true;
-
-                modelMaterial.uniforms.lightPos.value = lightPos;
-                modelMaterial.uniformsNeedUpdate=true;
             }
 			animate();
 		</script>
