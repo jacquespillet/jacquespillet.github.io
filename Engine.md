@@ -24,7 +24,7 @@ Here are some of the features illustrated with screen grabs.
 
 ## Overall Interface
 
-![Interface](Images/Kikoo/Interface.PNG)
+![Interface](Images/Kikoo/Interface.PNG =512x512)
 
 Shot of the interface of the software. The structure of the software is very much influenced by Unity's. 
 It is all based on an "Entity Component System" pattern.
@@ -36,29 +36,30 @@ Bottom panel is a debugging console
 
 ## Bloom post process
 
-![Bloom Post process](Images/Kikoo/Bloom.png)
+![Bloom Post process](Images/Kikoo/Bloom.png =512x512)
 
 Quite a simple implementation, lots of room for improvement.
 
 ## Depth of field post process
 
-![Dof0](Images/Kikoo/Dof3.png)
+![Dof0](Images/Kikoo/Dof3.png =512x512)
 
 Example of a depth of field with a rather large focus distance.
 
 ## Fast approximate Anti aliasing Post process
 
-![DUDV](Images/Kikoo/NoFxaa.png) | ![DUDV](Images/Kikoo/Fxaa.png)
+![DUDV](Images/Kikoo/NoFxaa.png =512x512) 
+![DUDV](Images/Kikoo/Fxaa.png =512x512)
 
 [Clever algorithm](https://en.wikipedia.org/wiki/Fast_approximate_anti-aliasing) that applies some image processing techniques to reduce jaggered edges due to aliasing.
 
 ## Cubemap reflections
 
-![Cubemap](Images/Kikoo/Cubemap.png)
+![Cubemap](Images/Kikoo/Cubemap.png =512x512)
 
 ## Directional Flow
 
-![DirFlow_0](Images/Kikoo/DirFlow_0.png)
+![DirFlow_0](Images/Kikoo/DirFlow_0.png =512x512)
 
 Implementation of the great tutorial by [Catlike Coding](https://catlikecoding.com/unity/tutorials/flow/directional-flow/).
 
@@ -114,17 +115,18 @@ Basic implementation of normal mapping
 Basic implementation of bump mapping
 
 <p float="left">
-  <img src="Images/Kikoo/WithHeightMap.png" width="400" />
-  <img src="Images/Kikoo/WithoutHeightMap.png" width="400" /> 
+  <img src="Images/Kikoo/WithHeightMap.png" width="512" />
+  <img src="Images/Kikoo/WithoutHeightMap.png" width="512" /> 
 </p>
 
-*On the left is with bump mapping, on the right is without bump mapping*
+*First image is with bump mapping, second is without bump mapping*
 
 ## Particle system
 
 Simple particle system that uses texture atlases and billboards.
 
 ![Particles_1](Images/Kikoo/Particles.png)  ![Particles_2](Images/Kikoo/Particles_1.png)
+
 *Same Particle system with two differents particle sizes*
 
 ## Volumetric ray marching
