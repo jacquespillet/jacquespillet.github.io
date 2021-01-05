@@ -5,12 +5,13 @@ These are all random micro experiments I've been playing with over the past year
 
 Nothing is optimized in there, some might take some time to load due to assets.
 
+Most of this stuff is running on the GPU, might be slow on some computers.
 
 ## [Simple Cell Shading](Threejs/CellShading/CellShading.html)
 
 ## [Charcoal Pen](Threejs/Charcoal/Index.html) : 
 
-Attempt to recreate the look of charcoal pen drawings.
+Attempt to replicate the look of charcoal pen drawings.
 
 ## [Noise](Threejs/Flow2D/Index.html)
 
@@ -46,9 +47,9 @@ The colors are accumulated on the screen.
 
 *Controls on top right*
 
-## [Hair](Threejs/Bubbles/Index.html)
+## [Bubble](Threejs/Bubbles/Index.html)
 
-A 2D soft body simulated with a [position based solver], using simple distance constraints (https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-08234-9_92-1).
+A 2D soft body simulated with a [position based solver](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-08234-9_92-1), using simple distance constraints .
 
 Not 100% working.
 
@@ -71,4 +72,4 @@ Be great to make it sound reactive somehow.
 
 ## [Volume](Threejs/Volume/Index.html)
 
-Volume ray marching inside a complex mesh ?  Does not really work
+Volumetric ray marching inside a complex mesh ?  Does not really work
