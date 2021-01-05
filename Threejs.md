@@ -12,7 +12,13 @@ Nothing is optimized in there, some might take some time to load due to assets.
 
 Attempt to recreate the look of charcoal pen drawings.
 
-## [Flow](Threejs/Flow2D/Index.html)
+## [Noise](Threejs/Flow2D/Index.html)
+
+Just some noise with instanced boxes on top
+
+*Controls on top right*
+
+## [Flow](Threejs/Flow/index.html)
 
 Combination of Fractal Brownian Motion and Gerstner waves.
 
@@ -22,9 +28,13 @@ Resources :
 
 [Perlin Noise](https://catlikecoding.com/unity/tutorials/noise/)
 
+*Controls on top right*
 
 ## [Fluid surface](Threejs/Fluid/index.html)
 
+Simple fluid simulation over a surface
+
+*Controls on top right*
 
 ## [Cloth](Threejs/Cloth/index.html)
 
@@ -34,18 +44,31 @@ Hair simulated with a [position based solver](https://link.springer.com/referenc
 
 The colors are accumulated on the screen.
 
+*Controls on top right*
+
+## [Hair](Threejs/Bubbles/Index.html)
+
+A 2D soft body simulated with a [position based solver], using simple distance constraints (https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-08234-9_92-1).
+
+Not 100% working.
+
 ## [Particles](Threejs/Instances/Index.html)
 
-Just a lot of cubes flowing in the air
+Just a lot of cubes flowing in the air following the derivatives of a 3d perlin noise.
 
-## [Modifiers](Threejs/Modifiers/Index.html)
+*Controls on top right*
+
+## [Modifiers](Threejs/Modifiers/index.html)
 
 Experiments on procedurally changing shapes in the vertex shader
 
 ## [Cubes](Threejs/Music/Index.html)
 
-???????
+A bug in a perlin noise implementation that looks cool.
+Be great to make it sound reactive somehow.
+
+*Controls on top right*
 
 ## [Volume](Threejs/Volume/Index.html)
 
-a cloud inside a mesh ?  Does not really work
+Volume ray marching inside a complex mesh ?  Does not really work
