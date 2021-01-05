@@ -24,7 +24,7 @@ Here are some of the features illustrated with screen grabs.
 
 ## Overall Interface
 
-<img src="Images/Kikoo/Interface.PNG" width="512" />
+<img src="Images/Kikoo/Interface.PNG" width="720" />
 
 Shot of the interface of the software. The structure of the software is very much influenced by Unity's. 
 It is all based on an "Entity Component System" pattern.
@@ -36,13 +36,13 @@ Bottom panel is a debugging console
 
 ## Bloom post process
 
-<img src="Images/Kikoo/Bloom.png" width="512" />
+<img src="Images/Kikoo/Bloom.png" width="720" />
 
 Quite a simple implementation, lots of room for improvement.
 
 ## Depth of field post process
 
-<img src="Images/Kikoo/Dof3.png" width="512" />
+<img src="Images/Kikoo/Dof3.png" width="720" />
 
 Example of a depth of field with a rather large focus distance.
 
@@ -57,19 +57,19 @@ Example of a depth of field with a rather large focus distance.
 
 ## Cubemap reflections
 
-<img src="Images/Kikoo/Cubemap.png" width="512" />
+<img src="Images/Kikoo/Cubemap.png" width="720" />
 
 ## Directional Flow
 
-<img src="Images/Kikoo/DirFlow_0.png" width="512" />
+<img src="Images/Kikoo/DirFlow_0.png" width="720" />
 
 Implementation of the great tutorial by [Catlike Coding](https://catlikecoding.com/unity/tutorials/flow/directional-flow/).
 
 ## Water Plane
 
 <p float="left">
-  <img src="Images/Kikoo/DUDV_0.png" width="512" />
-  <img src="Images/Kikoo/DUDV.png" width="512" /> 
+  <img src="Images/Kikoo/DUDV_0.png" width="500" />
+  <img src="Images/Kikoo/DUDV.png" width="500" /> 
 </p>
 
 The normals and texture coordinates of a plane are displaced using a "dudv" map.
