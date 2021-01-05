@@ -1,6 +1,11 @@
 
 ###  ThreeJS Experiments
 
+These are all random micro experiments I've been playing with over the past years in no particular order.
+
+Nothing is optimized in there, some might take some time to load due to assets.
+
+
 ## [Simple Cell Shading](Threejs/CellShading/CellShading.html)
 
 ## [Charcoal Pen](Threejs/Charcoal/Index.html) : 
@@ -18,10 +23,10 @@ Resources :
 [Perlin Noise](https://catlikecoding.com/unity/tutorials/noise/)
 
 
-## [Fluid surface](Threejs/Fluid/Index.html)
+## [Fluid surface](Threejs/Fluid/index.html)
 
 
-## [Cloth](Threejs/Cloth/Index.html)
+## [Cloth](Threejs/Cloth/index.html)
 
 ## [Hair](Threejs/Hair/Index.html)
 
