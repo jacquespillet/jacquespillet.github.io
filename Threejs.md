@@ -96,3 +96,28 @@ Be great to make it sound reactive somehow.
 ![Volume](Images/Threejs/Cloud.PNG)
 
 Volume ray marching inside a complex mesh ?  Does not really work
+
+## [Flow map](https://jacquespillet.github.io/ThreeJS/scene4.html)
+
+![Flowmap](Images/Threejs/Flowmap.PNG)
+
+Normal displacement based on a flow map texture, attempt to replicate water flowing.
+
+## [Pastas](https://jacquespillet.github.io/ThreeJS/scene5.html)
+
+![Pastas](Images/Threejs/Pastas.PNG)
+
+## [Particles To Mesh](https://jacquespillet.github.io/ThreeJS/scene6.html)
+
+![PartToMesh](Images/Threejs/PartToMesh.PNG)
+
+Very naive approach, every particle is assigned one vertex. On click, each particle moves towards its target position.
+
+## [Machinery](https://jacquespillet.github.io/ThreeJS/scene7.html)
+
+![Machinery](Images/Threejs/Machinery.PNG)
+
+## [Tornado](https://jacquespillet.github.io/ThreeJS/scene12.html)
+
+![Tornado](Images/Threejs/Tornado.PNG)
+
