@@ -48,8 +48,7 @@ Example of a depth of field with a rather large focus distance.
 
 ## Fast approximate Anti aliasing Post process
 
-![DUDV](Images/Kikoo/NoFxaa.png)
-![DUDV](Images/Kikoo/Fxaa.png)
+![DUDV](Images/Kikoo/NoFxaa.png) | ![DUDV](Images/Kikoo/Fxaa.png)
 
 [Clever algorithm](https://en.wikipedia.org/wiki/Fast_approximate_anti-aliasing) that applies some image processing techniques to reduce jaggered edges due to aliasing.
 
