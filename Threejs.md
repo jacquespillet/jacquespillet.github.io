@@ -62,7 +62,7 @@ The colors are accumulated on the screen.
 
 ![Bubble](../Images/Threejs/Bubble.PNG)
 
-A 2D soft body simulated with a [position based solver], using simple distance constraints (https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-08234-9_92-1).
+A 2D soft body simulated with a [position based solver](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-08234-9_92-1), using simple distance constraints.
 
 Not 100% working.
 
