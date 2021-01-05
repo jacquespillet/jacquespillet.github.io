@@ -1,18 +1,20 @@
 ### Toy Engine
 
 In order to gain some expertise on real time rendering techniques and algorithms, as a hobby project I developped this thing.
+
 Not sure how to call it as it's has no true purpose.
+
 I guess playground is the word.
 
 The interface is built with Qt, and the rendering part is done with openGL.
 
-I kind of stopped its development these days because of time constraints.
+I kind of stopped the development last year because of time constraints.
 
 I'm considering adding support for a vulkan back end when I have some time.
 
 In terms of actual algorithms and techniques, I also have tons of ideas of stuff I want to add.
 
-I also started developping an offline path tracer as part of the software.
+I had also started developping an offline path tracer as part of the software.
 
 The source code is in that repo :
 https://github.com/jacquespillet/KikooRenderer
@@ -22,7 +24,7 @@ Here are some of the features illustrated with screen grabs.
 
 ## Overall Interface
 
-![Interface](Images/Kikoo/Interface.png)
+![Interface](Images/Kikoo/Interface.PNG)
 
 Shot of the interface of the software. The structure of the software is very much influenced by Unity's. 
 It is all based on an "Entity Component System" pattern.
