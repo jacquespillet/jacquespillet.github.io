@@ -5,6 +5,10 @@ These are all random micro experiments I've been playing with over the past year
 
 Nothing is optimized in there, some might take some time to load due to assets.
 
+All the source code is in one of these 2 repositories :
+https://github.com/jacquespillet/ThreeJS
+https://github.com/jacquespillet/PF_experiments
+
 
 ## [Simple Cell Shading](Threejs/CellShading/CellShading.html)
 
