@@ -14,7 +14,7 @@ Nothing is optimized in there, some might take some time to load due to assets.
 
 ![Charcoal](Images/Threejs/Charcoal.PNG)
 
-Attempt to recreate the look of charcoal pen drawings.
+Attempt to replicate the look of charcoal pen drawings.
 
 ## [Noise](Threejs/Flow2D/Index.html)
 
