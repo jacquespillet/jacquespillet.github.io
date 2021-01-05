@@ -74,15 +74,15 @@ It also uses the fresnel equations to make the water more reflective based on th
 ## Shadow mapping
 
 The 3 most common types of light are supported :
-    * Directional
-    * Point
+    *Directional
+ * Point
     * Spot
     
-![LowResShadowmap](Images/Kikoo/LowResShadowmap.png)
-* Example of a low resolution shadow map *
+![LowResShadowmap](Images/Kikoo/LowResShadowmap.PNG)
+*Example of a low resolution shadow map*
 
-![Shadows](Images/Kikoo/Shadows.png)
-* Higher resolution shadow map *
+![Shadows](Images/Kikoo/Shadows.PNG)
+*Higher resolution shadow map*
 
 Soft shadows are achieved using either PCF or poisson disk sampling.
 
@@ -98,28 +98,31 @@ Lots of room for improvement in that area.
 
 
 ![Materials](Images/Kikoo/Materials.png)
-* A few different material parameters *
+*A few different material parameters*
 
 ## Normal maps
 
 Basic implementation of normal mapping
 
 ![NormalMapping](Images/Kikoo/NormalMapping.png)
-* Simple plane with displaced normals *
+*Simple plane with displaced normals*
 
 ## Bump mapping
 
 Basic implementation of bump mapping
 
-![WithHeightMap](Images/Kikoo/WithHeightMap.png)  ![WithoutHeightMap](Images/Kikoo/WithoutHeightMap.png)
-* On the left is with bump mapping, on the right is without bump mapping *
+<p float="left">
+  <img src="Images/Kikoo/WithHeightMap.png" width="512" />
+  <img src="Images/Kikoo/WithoutHeightMap.png" width="512" /> 
+</p>
+*On the left is with bump mapping, on the right is without bump mapping*
 
 ## Particle system
 
 Simple particle system that uses texture atlases and billboards.
 
 ![Particles_1](Images/Kikoo/Particles.png)  ![Particles_2](Images/Kikoo/Particles_1.png)
-* Same Particle system with two differents particle sizes*
+*Same Particle system with two differents particle sizes*
 
 ## Volumetric ray marching
 
@@ -133,7 +136,17 @@ It uses a 3d perlin worley noise.
 ![7](Images/Clouds/7.png)  |  ![8](Images/Clouds/8.png)  |  ![9](Images/Clouds/9.png)
  -->
 <p float="left">
-  <img src="Images/Clouds/1.png" width="100" />
-  <img src="Images/Clouds/2.png" width="100" /> 
-  <img src="Images/Clouds/3.png" width="100" />
+  <img src="Images/Clouds/1.png" width="512" />
+  <img src="Images/Clouds/2.png" width="512" /> 
+  <img src="Images/Clouds/3.png" width="512" />
+</p>
+<p float="left">
+  <img src="Images/Clouds/4.png" width="512" />
+  <img src="Images/Clouds/5.png" width="512" /> 
+  <img src="Images/Clouds/6.png" width="512" />
+</p>
+<p float="left">
+  <img src="Images/Clouds/7.png" width="512" />
+  <img src="Images/Clouds/8.png" width="512" /> 
+  <img src="Images/Clouds/9.png" width="512" />
 </p>
