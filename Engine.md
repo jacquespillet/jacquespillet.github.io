@@ -49,9 +49,10 @@ Example of a depth of field with a rather large focus distance.
 ## Fast approximate Anti aliasing Post process
 
 <p float="left">
-  <img src="Images/Kikoo/NoFxaa.png" width="512" />
-  <img src="Images/Kikoo/Fxaa.png" width="512" /> 
+  <img src="Images/Kikoo/NoFxaa.png" />
+  <img src="Images/Kikoo/Fxaa.png" /> 
 </p>
+
 [Clever algorithm](https://en.wikipedia.org/wiki/Fast_approximate_anti-aliasing) that applies some image processing techniques to reduce jaggered edges due to aliasing.
 
 ## Cubemap reflections
@@ -60,7 +61,7 @@ Example of a depth of field with a rather large focus distance.
 
 ## Directional Flow
 
-![DirFlow_0](Images/Kikoo/DirFlow_0.png =512x512)
+<img src="Images/Kikoo/DirFlow_0.png" width="512" />
 
 Implementation of the great tutorial by [Catlike Coding](https://catlikecoding.com/unity/tutorials/flow/directional-flow/).
 
@@ -96,21 +97,25 @@ Soft shadows are achieved using either PCF or poisson disk sampling.
 ## Materials
 
 Several type of materials are built in :
+
     * Unlit
+
     * Blinn-phong shading
+
     * Physically based shading
 
 Lots of room for improvement in that area.
 
 
-<img src="Images/Kikoo/Materials.PNG" width="512" />
+<img src="Images/Kikoo/Materials.PNG" width="720" />
+
 *A few different material parameters*
 
 ## Normal maps
 
 Basic implementation of normal mapping
 
-<img src="Images/Kikoo/NormalMapping.png" width="512" />
+<img src="Images/Kikoo/NormalMapping.png" width="720" />
 *Simple plane with displaced normals*
 
 ## Bump mapping
@@ -118,8 +123,8 @@ Basic implementation of normal mapping
 Basic implementation of bump mapping
 
 <p float="left">
-  <img src="Images/Kikoo/WithHeightMap.png" width="512" />
-  <img src="Images/Kikoo/WithoutHeightMap.png" width="512" /> 
+  <img src="Images/Kikoo/WithHeightMap.png" />
+  <img src="Images/Kikoo/WithoutHeightMap.png" /> 
 </p>
 
 *First image is with bump mapping, second is without bump mapping*
