@@ -8,4 +8,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ###ThreeJS Experiments
 
-[Cell Shading](Threejs/CellShading.html)
+[Cell Shading](Threejs/CellShading/CellShading.html)
