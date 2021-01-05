@@ -8,17 +8,17 @@ Nothing is optimized in there, some might take some time to load due to assets.
 
 ## [Simple Cell Shading](Threejs/CellShading/CellShading.html)
 
-![Cell](Images/Threejs/Cell.PNG)
+![Cell](../Images/Threejs/Cell.PNG)
 
 ## [Charcoal Pen](Threejs/Charcoal/Index.html) : 
 
-![Charcoal](Images/Threejs/Charcoal.PNG)
+![Charcoal](../Images/Threejs/Charcoal.PNG)
 
 Attempt to recreate the look of charcoal pen drawings.
 
 ## [Noise](Threejs/Flow2D/Index.html)
 
-![Noise](Images/Threejs/Noise.PNG)
+![Noise](../Images/Threejs/Noise.PNG)
 
 Just some noise with instanced boxes on top
 
@@ -26,7 +26,7 @@ Just some noise with instanced boxes on top
 
 ## [Flow](Threejs/Flow/index.html)
 
-![Flow2D](Images/Threejs/Flow2D.PNG)
+![Flow2D](../Images/Threejs/Flow2D.PNG)
 
 Combination of Fractal Brownian Motion and Gerstner waves.
 
@@ -40,7 +40,7 @@ Resources :
 
 ## [Fluid surface](Threejs/Fluid/index.html)
 
-![Fluid](Images/Threejs/Fluid.PNG)
+![Fluid](../Images/Threejs/Fluid.PNG)
 
 Simple fluid simulation over a surface
 
@@ -48,9 +48,11 @@ Simple fluid simulation over a surface
 
 ## [Cloth](Threejs/Cloth/index.html)
 
+![Cloth](../Images/Threejs/Cloth.PNG)
+
 ## [Hair](Threejs/Hair/Index.html)
 
-![Hair](Images/Threejs/Hair.PNG)
+![Hair](../Images/Threejs/Hair.PNG)
 
 Hair simulated with a [position based solver](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-08234-9_92-1).
 
@@ -60,7 +62,7 @@ The colors are accumulated on the screen.
 
 ## [Hair](Threejs/Bubbles/Index.html)
 
-![Bubble](Images/Threejs/Bubble.PNG)
+![Bubble](../Images/Threejs/Bubble.PNG)
 
 A 2D soft body simulated with a [position based solver](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-08234-9_92-1), using simple distance constraints.
 
@@ -68,7 +70,7 @@ Not 100% working.
 
 ## [Particles](Threejs/Instances/Index.html)
 
-![Particles](Images/Threejs/Particles.PNG)
+![Particles](../Images/Threejs/Particles.PNG)
 
 Just a lot of cubes flowing in the air following the derivatives of a 3d perlin noise.
 
@@ -76,7 +78,7 @@ Just a lot of cubes flowing in the air following the derivatives of a 3d perlin 
 
 ## [Modifiers](Threejs/Modifiers/index.html)
 
-![Modifiers](Images/Threejs/Modifiers.PNG)
+![Modifiers](../Images/Threejs/Modifiers.PNG)
 
 Experiments on procedurally changing shapes in the vertex shader
 
