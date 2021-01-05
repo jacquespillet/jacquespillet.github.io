@@ -126,11 +126,14 @@ Simple particle system that uses texture atlases and billboards.
 Tried to implement some ray marching for volumetric to render clouds.
 Not 100% satisfied with the result.
 It uses a 3d perlin worley noise.
-
+<!-- 
 |:---:|:---:|:---:|
 ![1](Images/Clouds/1.png)  |  ![2](Images/Clouds/2.png)  |  ![3](Images/Clouds/3.png)  
 ![4](Images/Clouds/4.png)  |  ![4](Images/Clouds/4.png)  |  ![6](Images/Clouds/6.png)
 ![7](Images/Clouds/7.png)  |  ![8](Images/Clouds/8.png)  |  ![9](Images/Clouds/9.png)
-
-
-
+ -->
+<p float="left">
+  <img src="Images/Clouds/1.png" width="100" />
+  <img src="Images/Clouds/2.png" width="100" /> 
+  <img src="Images/Clouds/3.png" width="100" />
+</p>
