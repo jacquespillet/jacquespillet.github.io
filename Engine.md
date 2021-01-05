@@ -64,8 +64,10 @@ Implementation of the great tutorial by [Catlike Coding](https://catlikecoding.c
 
 ## Water Plane
 
-![DUDV](Images/Kikoo/DUDV_0.png)
-![DUDV](Images/Kikoo/DUDV.png)
+<p float="left">
+  <img src="Images/Kikoo/DUDV_0.png" width="512" />
+  <img src="Images/Kikoo/DUDV.png" width="512" /> 
+</p>
 
 The normals and texture coordinates of a plane are displaced using a "dudv" map.
 The objects of the scene are reflected onto that plane using the displaced normals.
@@ -74,8 +76,8 @@ It also uses the fresnel equations to make the water more reflective based on th
 ## Shadow mapping
 
 The 3 most common types of light are supported :
-    *Directional
- * Point
+    * Directional
+    * Point
     * Spot
     
 ![LowResShadowmap](Images/Kikoo/LowResShadowmap.PNG)
@@ -97,7 +99,7 @@ Several type of materials are built in :
 Lots of room for improvement in that area.
 
 
-![Materials](Images/Kikoo/Materials.png)
+![Materials](Images/Kikoo/Materials.PNG)
 *A few different material parameters*
 
 ## Normal maps
@@ -112,9 +114,10 @@ Basic implementation of normal mapping
 Basic implementation of bump mapping
 
 <p float="left">
-  <img src="Images/Kikoo/WithHeightMap.png" width="512" />
-  <img src="Images/Kikoo/WithoutHeightMap.png" width="512" /> 
+  <img src="Images/Kikoo/WithHeightMap.png" width="400" />
+  <img src="Images/Kikoo/WithoutHeightMap.png" width="400" /> 
 </p>
+
 *On the left is with bump mapping, on the right is without bump mapping*
 
 ## Particle system
@@ -129,24 +132,19 @@ Simple particle system that uses texture atlases and billboards.
 Tried to implement some ray marching for volumetric to render clouds.
 Not 100% satisfied with the result.
 It uses a 3d perlin worley noise.
-<!-- 
-|:---:|:---:|:---:|
-![1](Images/Clouds/1.png)  |  ![2](Images/Clouds/2.png)  |  ![3](Images/Clouds/3.png)  
-![4](Images/Clouds/4.png)  |  ![4](Images/Clouds/4.png)  |  ![6](Images/Clouds/6.png)
-![7](Images/Clouds/7.png)  |  ![8](Images/Clouds/8.png)  |  ![9](Images/Clouds/9.png)
- -->
+
 <p float="left">
-  <img src="Images/Clouds/1.png" width="512" />
-  <img src="Images/Clouds/2.png" width="512" /> 
-  <img src="Images/Clouds/3.png" width="512" />
+  <img src="Images/Clouds/1.png" width="400" />
+  <img src="Images/Clouds/2.png" width="400" /> 
+  <img src="Images/Clouds/3.png" width="400" />
 </p>
 <p float="left">
-  <img src="Images/Clouds/4.png" width="512" />
-  <img src="Images/Clouds/5.png" width="512" /> 
-  <img src="Images/Clouds/6.png" width="512" />
+  <img src="Images/Clouds/4.png" width="400" />
+  <img src="Images/Clouds/5.png" width="400" /> 
+  <img src="Images/Clouds/6.png" width="400" />
 </p>
 <p float="left">
-  <img src="Images/Clouds/7.png" width="512" />
-  <img src="Images/Clouds/8.png" width="512" /> 
-  <img src="Images/Clouds/9.png" width="512" />
+  <img src="Images/Clouds/7.png" width="400" />
+  <img src="Images/Clouds/8.png" width="400" /> 
+  <img src="Images/Clouds/9.png" width="400" />
 </p>
