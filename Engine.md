@@ -61,6 +61,7 @@ Example of a depth of field with a rather large focus distance.
 
 ## Directional Flow
 
+<img src="Images/Gifs/Waterflow.gif" width="720" />
 <img src="Images/Kikoo/DirFlow_0.png" width="720" />
 
 Implementation of the great tutorial by [Catlike Coding](https://catlikecoding.com/unity/tutorials/flow/directional-flow/).
