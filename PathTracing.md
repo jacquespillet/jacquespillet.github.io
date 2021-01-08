@@ -14,12 +14,12 @@ It has some cool features like :
 * Triangle mesh loading
 * A few different materials (Glossy BRDF, Dielectrics, diffuse)
 
-<img src="Images/Raytracer/Toy_0.ppm"/>
-<img src="Images/Raytracer/Toy_1.ppm"/>
-<img src="Images/Raytracer/Toy_2.ppm"/>
-<img src="Images/Raytracer/Toy_3.ppm"/>
-<img src="Images/Raytracer/Toy_4.ppm"/>
-<img src="Images/Raytracer/Toy_5.ppm"/>
+<img src="Images/Raytracer/Toy_0.png"/>
+<img src="Images/Raytracer/Toy_1.png"/>
+<img src="Images/Raytracer/Toy_2.png"/>
+<img src="Images/Raytracer/Toy_3.png"/>
+<img src="Images/Raytracer/Toy_4.png"/>
+<img src="Images/Raytracer/Toy_5.png"/>
 -----
 
 
