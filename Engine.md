@@ -91,7 +91,7 @@ The 3 most common types of light are supported :
 
 *Higher resolution shadow map*
 
-Soft shadows are achieved using either PCF or poisson disk sampling.
+Soft shadows are achieved using either percentage close filtering or poisson disk sampling.
 
 
 ## Materials

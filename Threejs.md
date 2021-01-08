@@ -3,7 +3,7 @@
 
 These are all random micro experiments I've been playing with over the past years in no particular order.
 
-Nothing is optimized in there, some might take some time to load due to assets.
+Optimization clearly is not the focus in there, some might take some time to load due to assets.
 
 All the source code is in one of these 2 repositories :
 https://github.com/jacquespillet/ThreeJS
@@ -26,6 +26,12 @@ Attempt to replicate the look of charcoal pen drawings.
 
 Just some noise with instanced boxes on top
 
+Resources : 
+
+[Effective Water Simulation from Physical Models](https://developer.nvidia.com/gpugems/gpugems/part-i-natural-effects/chapter-1-effective-water-simulation-physical-models)
+
+[Perlin Noise](https://catlikecoding.com/unity/tutorials/noise/)
+
 *Controls on top right*
 
 ## [Flow](Threejs/Flow/index.html)
@@ -33,12 +39,6 @@ Just some noise with instanced boxes on top
 ![Flow2D](Images/Threejs/Flow2D.PNG)
 
 Combination of Fractal Brownian Motion and Gerstner waves.
-
-Resources : 
-
-[Effective Water Simulation from Physical Models](https://developer.nvidia.com/gpugems/gpugems/part-i-natural-effects/chapter-1-effective-water-simulation-physical-models)
-
-[Perlin Noise](https://catlikecoding.com/unity/tutorials/noise/)
 
 *Controls on top right*
 

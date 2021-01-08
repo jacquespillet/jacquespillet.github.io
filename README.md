@@ -6,3 +6,5 @@
 [Toy Engine](Engine.md)
 
 [Physics Experiments](Physics.md)
+
+[Path Tracer](PathTracing.md)
