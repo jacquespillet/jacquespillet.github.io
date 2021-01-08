@@ -147,6 +147,8 @@ Tried to implement some ray marching for volumetric to render clouds.
 Not 100% satisfied with the result.
 It uses a 3d perlin worley noise.
 
+<img src="Images/Gifs/Clouds.gif"/>
+
 <p float="left">
   <img src="Images/Clouds/1.png" width="400" />
   <img src="Images/Clouds/2.png" width="400" /> 
