@@ -142,6 +142,7 @@ Simple particle system that uses texture atlases and billboards.
 
 
 <p float="left">
+  <img src="Images/Gifs/ParticleSystem.gif" width="512" />
   <img src="Images/Kikoo/Particles.png" width="512" />
   <img src="Images/Kikoo/Particles_1.png" width="512" /> 
 </p>
