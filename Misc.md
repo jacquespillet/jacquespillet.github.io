@@ -14,7 +14,7 @@ Diffraction on a disc
 
 Rendering grass
 
-<img src="Images/gifs/Grass.gif"/>
+<img src="Images/Gifs/Grass.gif"/>
 <img src="Images/Tests Pics/Grass (1).PNG"/>
 <img src="Images/Tests Pics/Grass (2).PNG"/>
 
