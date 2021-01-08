@@ -27,11 +27,14 @@ Here are some of the features illustrated with screen grabs.
 <img src="Images/Kikoo/Interface.PNG" width="720" />
 
 Shot of the interface of the software. The structure of the software is very much influenced by Unity's. 
+
 It is all based on an "Entity Component System" pattern.
 
 
 Left panel is a scene graph visualisation
+
 Right panel shows the selected object parameters and components.
+
 Bottom panel is a debugging console
 
 ## Bloom post process
@@ -74,7 +77,9 @@ Implementation of the great tutorial by [Catlike Coding](https://catlikecoding.c
 </p>
 
 The normals and texture coordinates of a plane are displaced using a "dudv" map.
+
 The objects of the scene are reflected onto that plane using the displaced normals.
+
 It also uses the fresnel equations to make the water more reflective based on the camera direction.
 
 ## Shadow mapping
@@ -117,6 +122,7 @@ Lots of room for improvement in that area.
 Basic implementation of normal mapping
 
 <img src="Images/Kikoo/NormalMapping.png" width="720" />
+
 *Simple plane with displaced normals*
 
 ## Bump mapping
@@ -145,7 +151,9 @@ Simple particle system that uses texture atlases and billboards.
 ## Volumetric ray marching
 
 Tried to implement some ray marching for volumetric to render clouds.
+
 Not 100% satisfied with the result.
+
 It uses a 3d perlin worley noise.
 
 <img src="Images/Gifs/Clouds.gif"/>
