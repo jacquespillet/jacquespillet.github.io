@@ -1,8 +1,8 @@
-###Physics simulation
+# Physics simulation
 
 Here I showcase some physics simulation I've been playing with in the past years.
 
-##Smoothed particle hydrodynamics
+## Smoothed particle hydrodynamics
 
 Implementation of SPH, all on the GPU with compute shaders in Unity.
 
@@ -12,7 +12,7 @@ Next step will be to render it properly, I'm thinking implementing [this paper](
 <img src="Images/Gifs/SPH_1.gif"/>
 <img src="Images/Gifs/SPH_2.gif"/>
 
-##Bullets
+## Bullets
 
 I've integrated [Bullet physics engine](https://github.com/bulletphysics/bullet3) in my [toy engine](Engine.md).
 
@@ -25,7 +25,7 @@ Here are a few features that I implemented :
 <img src="Images/Gifs/soft.gif"/>
 
 
-###Others
+## Others
 
 I've started to implement [position based dynamics](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf) in Unity on the GPU.
 

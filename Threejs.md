@@ -64,7 +64,7 @@ The colors are accumulated on the screen.
 
 *Controls on top right*
 
-## [Hair](Threejs/Bubbles/Index.html)
+## [Bubble](Threejs/Bubbles/Index.html)
 
 ![Bubble](Images/Threejs/Bubble.PNG)
 

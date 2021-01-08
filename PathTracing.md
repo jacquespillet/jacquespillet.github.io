@@ -25,9 +25,9 @@ It has some cool features like :
 
 And then this year I wanted to learn SIMD programming so I started writing another path tracer with this idea in mind.
 
-It has more limited features than the previous one for now, but I'm planning adding some more stuff.
+It has  limited set of features than the previous one for now, but I'm planning adding some more stuff.
 
-At the moment, it can just render spheres, and only has 2 materials (Diffuse and Dielectrics).
+At the moment, it can just render spheres, and has 3 materials (Diffuse, specular, and Dielectrics).
 
 It uses a bounding volume hierarchy to accelerate the process.
 
