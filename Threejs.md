@@ -22,23 +22,22 @@ Attempt to replicate the look of charcoal pen drawings.
 
 ## [Noise](Threejs/Flow2D/Index.html)
 
-![Noise](Images/Threejs/Noise.PNG)
+![Noise](Images/Threejs/Flow2D.PNG)
 
 Just some noise with instanced boxes on top
+*Controls on top right*
+
+## [Flow](Threejs/Flow/index.html)
+
+![Flow2D](Images/Threejs/Noise.PNG)
+
+Combination of Fractal Brownian Motion and Gerstner waves.
 
 Resources : 
 
 [Effective Water Simulation from Physical Models](https://developer.nvidia.com/gpugems/gpugems/part-i-natural-effects/chapter-1-effective-water-simulation-physical-models)
 
 [Perlin Noise](https://catlikecoding.com/unity/tutorials/noise/)
-
-*Controls on top right*
-
-## [Flow](Threejs/Flow/index.html)
-
-![Flow2D](Images/Threejs/Flow2D.PNG)
-
-Combination of Fractal Brownian Motion and Gerstner waves.
 
 *Controls on top right*
 
