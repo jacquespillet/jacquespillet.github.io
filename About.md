@@ -14,4 +14,4 @@ jacquespillet5@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/jacques-pillet-87bb5697/)
 
-[CV](CV Jacques.pdf)
+[CV](https://github.com/jacquespillet/jacquespillet.github.io/raw/main/CV%20Jacques.pdf)
