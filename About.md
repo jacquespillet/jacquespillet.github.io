@@ -6,7 +6,7 @@ I help them developping all the in-house tools they use to produce films and xr 
 
 I have deep interests in computer graphics and more broadly software engineering.
 
-On that website you can find all the stuff I've been working on in the past years on my spare time.
+On my website you can find all the stuff I've been working on in the past years on my spare time.
 
 Feel free to reach out :
 

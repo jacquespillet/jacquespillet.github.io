@@ -36,3 +36,14 @@ I've started to implement [position based dynamics](https://matthias-research.gi
 I've also played a bit with implementing rigid body dynamics on the GPU  using [this paper](https://developer.nvidia.com/gpugems/gpugems3/part-v-physics-simulation/chapter-29-real-time-rigid-body-simulation-gpus)
 
 <img src="Images/Gifs/Harada.gif"/>
+
+
+2D Fluid simulation on the GPU from [this paper](https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html) :
+
+<img src="Images/Gifs/2d_Fluid (1).gif"/>
+
+*Vizualisation of the velocity field*
+
+<img src="Images/Gifs/2d_Fluid (2).gif"/>
+
+*Advection of a dye*
