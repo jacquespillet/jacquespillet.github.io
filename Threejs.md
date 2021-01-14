@@ -1,5 +1,5 @@
 
-###  ThreeJS Experiments
+#  ThreeJS Experiments
 
 These are all random micro experiments I've been playing with over the past years in no particular order.
 
@@ -9,6 +9,9 @@ All the source code is in one of these 2 repositories :
 https://github.com/jacquespillet/ThreeJS
 https://github.com/jacquespillet/PF_experiments
 
+## [Water surface](Threejs/WaterPlane/index.html)
+
+![Water surface](Images/Threejs/WaterPlane.PNG)
 
 ## [Simple Cell Shading](Threejs/CellShading/CellShading.html)
 
