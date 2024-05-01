@@ -8,13 +8,7 @@ I guess playground is the word.
 
 The interface is built with Qt, and the rendering part is done with openGL.
 
-I kind of stopped the development last year because of time constraints.
-
-I'm considering adding support for a vulkan back end when I have some time.
-
-In terms of actual algorithms and techniques, I also have tons of ideas of stuff I want to add.
-
-I had also started developping an offline path tracer as part of the software.
+I stopped the development in 2018 because of time constraints.
 
 The source code is in that repo :
 https://github.com/jacquespillet/KikooRenderer
