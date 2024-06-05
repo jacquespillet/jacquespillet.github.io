@@ -30,7 +30,7 @@ Dive into my latest and greatest! Here you'll find my current side projects, bri
 
 [![Vulkan](Images/Home/vulkan.PNG)](GPUPT.md)
 
-[![Graphics Experiments](Images/Home/gfx.PNG)](GPUPT.md)
+[![Graphics Experiments](Images/Home/Experiments.PNG)](GPUPT.md)
 
 [![Media Lab](Images/Home/Lab.PNG)](GPUPT.md)
 
