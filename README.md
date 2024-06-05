@@ -24,7 +24,8 @@ Merci for stopping by and enjoy your stay !
 
 Dive into my latest and greatest! Here you'll find my current side projects, brimming with fresh ideas and cutting-edge creativity.
 
-[![Path Tracing Blog Posts](Images/Home/GPUPT.PNG)](GPUPT.md)
+
+[![Path Tracing Blog Posts](Images/Home/GPUPT.png)](GPUPT.md)
 
 [![Graphics Library (gfx)](Images/Home/gfx.PNG)](GPUPT.md)
 
