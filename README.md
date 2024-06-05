@@ -24,27 +24,27 @@ Merci for stopping by and enjoy your stay !
 
 Dive into my latest and greatest! Here you'll find my current side projects, brimming with fresh ideas and cutting-edge creativity.
 
-[![Path Tracing Blog Posts](Images/Threejs/Flow2D.PNG)](GPUPT.md)
+[![Path Tracing Blog Posts](Images/Home/GPUPT.PNG)](GPUPT.md)
 
-[![Graphics Library (gfx)](Images/Threejs/Flow2D.PNG)](GPUPT.md)
+[![Graphics Library (gfx)](Images/Home/gfx.PNG)](GPUPT.md)
 
-[![Vulkan](Images/Threejs/Flow2D.PNG)](GPUPT.md)
+[![Vulkan](Images/Home/vulkan.PNG)](GPUPT.md)
 
-[![Graphics Experiments](Images/Threejs/Flow2D.PNG)](GPUPT.md)
+[![Graphics Experiments](Images/Home/gfx.PNG)](GPUPT.md)
 
-[![Media Lab](Images/Threejs/Flow2D.PNG)](GPUPT.md)
+[![Media Lab](Images/Home/Lab.PNG)](GPUPT.md)
 
 
 ## Older Stuff
 
 A trip down memory lane! This section showcases some of my older projects that may not be front and center, but still hold a special place in my heart.
 
-[![Toy Engine](Images/Threejs/Flow2D.PNG)](GPUPT.md)
+[![Toy Engine](Images/Home/Kikoo.PNG)](GPUPT.md)
 
-[![ThreeJS Experiments](Images/Threejs/Flow2D.PNG)](GPUPT.md)
+[![ThreeJS Experiments](Images/Home/Three.PNG)](GPUPT.md)
 
-[![Physics Experiments](Images/Threejs/Flow2D.PNG)](GPUPT.md)
+[![Physics Experiments](Images/Home/Physics.PNG)](GPUPT.md)
 
-[![Path Tracer](Images/Threejs/Flow2D.PNG)](GPUPT.md)
+[![Path Tracer](Images/Home/PT.PNG)](GPUPT.md)
 
-[![Misc](Images/Threejs/Flow2D.PNG)](GPUPT.md)
+[![Misc](Images/Home/Misc.PNG)](GPUPT.md)
