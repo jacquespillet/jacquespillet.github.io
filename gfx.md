@@ -22,35 +22,6 @@ This high level api is used to create a simple 3d engine as an example.
 
 It's not a finished product, there are still some bugs to fixes and things to add to the libraries, but most of the system is working.
 
-
-# build instructions
-
-## Requirements : 
-
-    Visual Studio (Tested only on Visual Studio 2019)
-
-    Latest [dxc](https://github.com/microsoft/DirectXShaderCompiler/releases) release copied into the vendor/dxc folder
-
-## Commands : 
-```
-### Clone the repo and checkout to the latest branch
-git clone --recursive https://github.com/jacquespillet/gfx.git
-cd gfx
-
-### Generate the solution
-mkdir build
-cd build
-cmake ../
-
-### Build
-cd ..
-Build.bat
-
-
-```
-First build may take a while because it's going to build all the dependencies with the project.
-
-
 # Low level api features 
 
 ## Example Code

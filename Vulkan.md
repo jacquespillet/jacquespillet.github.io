@@ -7,26 +7,6 @@ I started off just creating a regular glTF model viewer, but kept adding feature
 
 ![Renderers](https://github.com/jacquespillet/vulkan/blob/master/resources/Gallery/Sans%20titre.png?raw=true)
 
-## Requirements
-Visual Studio (Tested only on Visual Studio 2019)
-NVidia GPU (for RTX)
-
-## Build Instructions
-```
-### Clone the repo and checkout to the latest branch
-git clone --recursive https://github.com/jacquespillet/vulkan.git
-cd vulkan
-
-### Generate the solution
-mkdir build
-cd build
-cmake ../
-
-### Build
-cd ..
-Build.bat
-```
-First build may take a while because it's going to build all the dependencies with the project.
 
 ## Usage
 ```
