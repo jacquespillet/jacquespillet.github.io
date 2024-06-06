@@ -7,9 +7,7 @@
 
 I'm Jacques, a software developper originally from the beautiful city of Marseille, France. 
 
-My journey took me across the Channel to the bustling creative scene of London, where I honed my craft at [ScanLAB Projects](https://scanlabprojects.co.uk/). 
-
-Now, I'm back in Marseille, but still working for ScanLAB.
+My journey took me across the Channel to the bustling creative scene of London, where I honed my craft at [ScanLAB Projects](https://scanlabprojects.co.uk/) and now, I'm back in Marseille, and still working for ScanLAB.
 
 Here, you'll find a showcase of what I've been up to on my spare time, a blend of cutting-edge tech and a sprinkle of je ne sais quoi. 
 

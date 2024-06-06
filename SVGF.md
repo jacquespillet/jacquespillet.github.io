@@ -2,6 +2,8 @@
 
 This is a simple implementation of [Spatiotemporal Variance-Guided Filtering](https://research.nvidia.com/publication/2017-07_spatiotemporal-variance-guided-filtering-real-time-reconstruction-path-traced). 
 
+[Link to the repo](https://github.com/jacquespillet/SVGF)
+
 I extended a [cuda path tracer](https://github.com/jacquespillet/gpupt_blog) that I wrote to build it. 
 
 It denoises 1 sample per pixel path tracing outputs in real time (~6ms)
@@ -15,32 +17,6 @@ It's not a complete implementation, for example it's not doing albedo demodulati
 
 It's also not really optimized, although the filtering part is quite fast, the path tracing part could be faster, but my focus was more on implementing the filter rather than speeding up the path tracer. 
 
-# Build
-## Requirements : 
-    Visual Studio (Tested only on Visual Studio 2019)
-    Cuda installed on the system
-    NVidia GPU (for Cuda)
-    CUDA_PATH environment variable set (example  "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8" )
-
-## Commands : 
-```
-### Clone the repo and checkout to the latest branch
-git clone --recursive https://github.com/jacquespillet/svgf.git
-cd gpupt_blog
-git checkout origin/Part_13
-
-### Generate the solution
-mkdir build
-cd build
-cmake ../
-
-### Build
-cd ..
-BuildDebug.bat / BuildRelease.bat
-
-First build may take a while because it's going to build all the dependencies with the project.
-
-```
 
 # SVGF
 
@@ -289,9 +265,9 @@ float Numerator = abs((zCenter.x - zPixel.x));
 float Denominator = max(abs(zCenter.y), 1e-8f) * Step; //Here, sigma_z is 1, and step represends (p-q) : the distance between the 2 pixels.
 float weightZ = exp(-(Numerator / Denominator));
 ```
-#
 
 * Illumination : This is described in equation (5) in the paper, and here's the code : 
+
 ```cpp
 float Denominator = SigmaLuminance * sqrt(max(0, 1e-10 + Variance)); //Here, this is the prefiltered variance
 float weightLillum = abs(luminanceIllumCenter - luminanceIllumP) / Denominator;
