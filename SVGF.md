@@ -227,9 +227,24 @@ Here's the code that does that :
 
 Great, so what do we do with those neighbouring pixel values now ?
 
-well, we use them to filter the central pixel, and to do that, we will use an "edge stopping function". 
+well, we use them to apply a "cross bilateral filter", and to do that, we will use an "edge stopping function".
 
-This will allow us to not filter edges, because we obviously don't want to blur out edges in our noisy image.
+Here I'll briefly explain what a bilateral filter is and how it works.
+
+Bilateral filters are used in image processing to smooth images while preserving edges, meaning we can remove noise in rather "flat" areas and keep the sharp edges intact.
+
+To do that, we loop through all the neighbouring pixels, and take into account both the distance of the neighbourg pixel to the central one, and the change in intensity between the two.
+
+This means that pixels closer to the central pixel will usually have a higher weight, and pixels with similar internsities to the central pixel will also have a higher weight.
+
+We therefore have to calculate a "spatial" and an "intensity" weight that we then multiply together to get the weight of a neighbour pixel.
+
+For each neighbour, we calculate the weight of that neigbour, and multiply it with its pixel value. We accumulate that over all the neighbourhood, and finally we divide by the sum of all the weights to normalize the value.
+
+the term "cross" bilateral filters means that we use another image to drive the weights of the filtered image. In this case, we use the variance image and the geometry buffers to do so.
+
+
+Now that we reviewed what a bilateral filter is, we will explain how the SVGF specific filter will work, and how we calculate the weights.
 
 The filter is described in equation (1) of the paper, and here's a pseudo code implementation of that equation : 
 
@@ -291,7 +306,6 @@ Note that the variance is also being filtered in this process. It's filtered usi
 This will steer the behaviour of the next iteration of the filter using an updated varianace.
 
 
-
 As described in the paper, we use the result of the first iteration of this filter as the input for the next frame's temporal accumulation :
 ```cpp
 if(Iteration==0)
@@ -300,9 +314,10 @@ if(Iteration==0)
 }
 ```
 
-An important thing to do as well is filtering the variance before running the A-trous wavelet filter to get better results.
 
-This is done in a similar way as filtering the colour, so I won't go into those details.
+One very important step that I haven't mentionned so far is before running the A-trous filter, we need to filter the variances.
+
+We basically apply a cross bilateral filter to the variance values which will smooth them out. It's almost using the same code as the A-trous filter so I won't dive too deep in the details, the only difference is it's just a regular filter applied to the 5x5 neighbouring pixels.
 
 ## 5. Temporal Anti Aliasing & Tonemapping
 

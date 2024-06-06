@@ -2,7 +2,7 @@
 
 # GFX
 
-This is a simple graphics library for creating 3D apps.
+This is a graphics library for creating 3D apps.
 
 [Link to the repo](https://github.com/jacquespillet/gfx)
 
@@ -26,7 +26,7 @@ It's not a finished product, there are still some bugs to fixes and things to ad
 
 ## Example Code
 
-This is a very simple example usage of the Gfx api, to create a simple app that displays a textured triangle with a colour tint passed as a uniform variable :
+This is a very simple example usage of the Gfx api, to create an app that displays a textured triangle with a colour tint passed as a uniform variable :
 [Here](https://raw.githubusercontent.com/jacquespillet/gfx/master/src/Main_HelloTriangle.cpp)'s the full code for that example.
 
 We first initialize the graphics context and the swapchain : 
@@ -48,13 +48,13 @@ We then create the texture for the triangle :
 gfx::imageData ImageData = gfx::ImageFromFile("resources/Textures/Debug.jpg");
 gfx::imageCreateInfo ImageCreateInfo = 
 {
-    {0.0f,0.0f,0.0f,0.0f},
-    gfx::samplerFilter::Linear,
-    gfx::samplerFilter::Linear,
-    gfx::samplerWrapMode::ClampToBorder,
-    gfx::samplerWrapMode::ClampToBorder,
-    gfx::samplerWrapMode::ClampToBorder,
-    true
+    {0.0f,0.0f,0.0f,0.0f}, //Border Colour
+    gfx::samplerFilter::Linear, //MinFilter
+    gfx::samplerFilter::Linear, //MagFilter
+    gfx::samplerWrapMode::ClampToBorder, //WrapS
+    gfx::samplerWrapMode::ClampToBorder, //WrapT
+    gfx::samplerWrapMode::ClampToBorder, //WrapR
+    true //GenerateMipMaps
 };
 TextureHandle1 = GfxContext->CreateImage(ImageData, ImageCreateInfo);
 gfx::image *Texture1 = GfxContext->GetImage(TextureHandle1);
