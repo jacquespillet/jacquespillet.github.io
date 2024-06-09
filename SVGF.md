@@ -235,7 +235,7 @@ Bilateral filters are used in image processing to smooth images while preserving
 
 To do that, we loop through all the neighbouring pixels, and take into account both the distance of the neighbourg pixel to the central one, and the change in intensity between the two.
 
-This means that pixels closer to the central pixel will usually have a higher weight, and pixels with similar internsities to the central pixel will also have a higher weight.
+This means that pixels closer to the central pixel will usually have a higher weight, and pixels with similar intensities to the central pixel will also have a higher weight.
 
 We therefore have to calculate a "spatial" and an "intensity" weight that we then multiply together to get the weight of a neighbour pixel.
 
