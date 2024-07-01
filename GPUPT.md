@@ -5,6 +5,7 @@ This is the repository accompanying the blog post series "Simple GPU Path Tracin
 [Link to the repo](https://github.com/jacquespillet/gpupt_blog)
 
 Here's a summary of all the episodes in the series :
+
 [Simple GPU Path Tracing : Introduction ](https://jacquespillet.blogspot.com/2024/03/blog-post.html)
 
 [Simple GPU Path Tracing, Part. 1 : Project Setup](https://jacquespillet.blogspot.com/2024/03/simple-gpu-path-tracing-part-1-project.html)
@@ -97,7 +98,6 @@ Here's a summary of all the episodes in the series :
 
 [Here](https://raw.githubusercontent.com/jacquespillet/gpupt_blog/Part_13/resources/Gallery/Credits.txt?token=GHSAT0AAAAAACQGK7WP7XR5AOFYFSPGP44AZRKLF3A) are the credits for each scene :
 
-```
 [Anime Class Room by AnixMoonLight](https://sketchfab.com/3d-models/anime-class-room-4faa1d57304d446995bc3a01af763239)
 
 [Salle de bain from McGuire Computer Graphics Archive, Model by Nacimus Ait Cherif](https://casual-effects.com/data)
@@ -137,13 +137,16 @@ Here's a summary of all the episodes in the series :
 [Vokselia Spawn from McGuire Computere Graphics Archive, Model by Vokselia](https://casual-effects.com/data/)
 
 
-```
-
 --- 
 Helpful resources that helped creating the tutorials
 
 [Physically Based Rendering online edition](https://pbr-book.org/)
+
+
 [Jacco Bikker Blog](https://jacco.ompf2.com/), especially the posts about BVH that we're using in our code
+
 [A Graphics Guy's Note](https://agraphicsguynotes.com/posts/)
+
 [Scratchapixel](https://www.scratchapixel.com/)
+
 [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF)

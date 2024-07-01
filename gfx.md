@@ -189,6 +189,8 @@ The Hlgfx library contains abstractions classes for creating 3d apps :
 
 * [Mesh](https://github.com/jacquespillet/gfx/blob/master/src/Hlgfx/Mesh.cpp)
 
+* Vulkan Ray Tracing
+
 
 # Mini engine
 
@@ -206,6 +208,8 @@ It also contains an asset management system that allows to import and instantiat
 # Screenshots
 
 ![Image](https://github.com/jacquespillet/gfx/blob/master/resources/Gallery/MiniEngine_0.PNG?raw=true)
+
+![Image](https://github.com/jacquespillet/gfx/blob/master/resources/Gallery/MiniEngine_RTX.PNG?raw=true)
 
 ![Image](https://github.com/jacquespillet/gfx/blob/master/resources/Gallery/MiniEngine_1.PNG?raw=true)
 
