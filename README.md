@@ -9,11 +9,11 @@ I'm Jacques, a software developper originally from the beautiful city of Marseil
 
 My journey took me across the Channel to the bustling creative scene of London, where I honed my craft at [ScanLAB Projects](https://scanlabprojects.co.uk/) and now, I'm back in Marseille, and still working for ScanLAB.
 
-Here, you'll find a showcase of what I've been up to on my spare time, a blend of cutting-edge tech and a sprinkle of je ne sais quoi. 
+Here, you'll find a showcase of what I've been up to on my spare time.
 
 Feel free to explore, get inspired, and drop me a line if you fancy a chat about all things graphics. 
 
-Merci for stopping by and enjoy your stay !
+Thanks for stopping by and enjoy your stay !
 
 [Linkedin](https://www.linkedin.com/in/jacques-pillet-87bb5697/)
 
