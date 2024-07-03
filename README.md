@@ -17,7 +17,7 @@ Thanks for stopping by and enjoy your stay !
 
 [Linkedin](https://www.linkedin.com/in/jacques-pillet-87bb5697/)
 
-[(Old) Resume](https://github.com/jacquespillet/jacquespillet.github.io/raw/main/CV%20Jacques.pdf)
+[Resume](https://github.com/jacquespillet/jacquespillet.github.io/raw/main/Resume.pdf)
 
 
 # Recent Stuff
