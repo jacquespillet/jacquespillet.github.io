@@ -23,20 +23,24 @@ VulkanApp.exe "path/to/your/model.gltf" 0.01
 It has 6 different "renderers" available : 
 
 * Forward : 
+
 The simplest one, it just does forward rendering using the vulkan graphics pipeline. It's using a pbr material shader. 
 It also supports image based lighting, and directional lighting.
 
 * Deferred : 
+
 Simple Deferred rendering pipeline, just to understand how offscreen render targets work in vulkan
 It also supports image based lighting, and directional lighting.
 
 * Path Tracer RTX
+
 A path tracer that uses the hardware acceleration features on new NVidia RTX gpus. 
 It can also use Open Image Denoise to denoise the renders.
 It's a simple path tracer, but still able to produce some good looking images!
 
 * Path Trace CPU
-Well, that's the same path tracer as the previous one, but using the GPU.
+
+Well, that's the same path tracer as the previous one, except it's running on the CPU.
 
 As it cannot benefit from hardware accelerated ray tracing, it's using a custom BVH based on the great [BVH series](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/) by Jacco Bikker.
 
