@@ -13,7 +13,7 @@ Here, you'll find a showcase of what I've been up to on my spare time.
 
 Feel free to explore, get inspired, and drop me a line if you fancy a chat about all things graphics. 
 
-Thanks for stopping by and enjoy your stay !
+Thanks for stopping by!
 
 [Linkedin](https://www.linkedin.com/in/jacques-pillet-87bb5697/)
 
