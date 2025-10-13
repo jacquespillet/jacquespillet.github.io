@@ -3,15 +3,15 @@
 
 # Hi
 
-## Welcome to my colorful corner of the internet! 
+## Welcome to my corner of the internet! 
 
-I'm Jacques, a software developper originally from the beautiful city of Marseille, France. 
+I'm Jacques, a software developper originally from Marseille, France. 
 
 My journey took me across the Channel to the bustling creative scene of London, where I honed my craft at [ScanLAB Projects](https://scanlabprojects.co.uk/) and now, I'm back in Marseille, and still working for ScanLAB.
 
 Here, you'll find a showcase of what I've been up to on my spare time.
 
-Feel free to explore, get inspired, and drop me a line if you fancy a chat about all things graphics. 
+Feel free to explore, get inspired, and drop me a line if you fancy a chat. 
 
 Thanks for stopping by!
 
@@ -22,7 +22,7 @@ Thanks for stopping by!
 
 # Recent Stuff
 
-Dive into my latest and greatest! Here you'll find my current side projects, brimming with fresh ideas and cutting-edge creativity.
+Here you'll find my current side projects, brimming with fresh ideas and cutting-edge creativity.
 
 
 [![Path Tracing Blog Posts](Images/Home/GPUPT.png)](GPUPT)
@@ -40,7 +40,7 @@ Dive into my latest and greatest! Here you'll find my current side projects, bri
 
 # Older Stuff
 
-A trip down memory lane! This section showcases some of my older projects that may not be front and center, but still hold a special place in my heart.
+These are some of my older projects that may not be front and center, but still hold a special place for me.
 
 [![Toy Engine](Images/Home/Kikoo.PNG)](Engine)
 
