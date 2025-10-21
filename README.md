@@ -1,17 +1,14 @@
 
-# Jacques Pillet
-
-# Hi
-
-## Welcome to my corner of the internet! 
+# Hello !
 
 I'm Jacques, a software developper originally from Marseille, France. 
 
-My journey took me across the Channel to the bustling creative scene of London, where I honed my craft at [ScanLAB Projects](https://scanlabprojects.co.uk/) and now, I'm back in Marseille, and still working for ScanLAB.
+I specialize in designing performant, creative and technically challenging software, mainly for [ScanLAB Projects](https://scanlabprojects.co.uk/), but I’m always keen to explore projects of all kinds.
 
-Here, you'll find a showcase of what I've been up to on my spare time.
+Here, you'll find a showcase of what I've been up to at ScanLAB, and also some side projects I've been working on in my spare time.
 
-Feel free to explore, get inspired, and drop me a line if you fancy a chat. 
+I'm currently available for freelance collaborations.
+If you’re looking for help on a project - development, creative tech, or something in between - I’d love to hear from you at jacquespillet5@gmail.com
 
 Thanks for stopping by!
 
@@ -19,11 +16,32 @@ Thanks for stopping by!
 
 [Resume](https://github.com/jacquespillet/jacquespillet.github.io/raw/main/Resume.pdf)
 
+# ScanLAB Projects
+
+At ScanLAB, I’ve spent the past years building the creative and technical backbone of our projects — from real-time visualization tools to large-scale interactive installations.
+
+Below is a look at some of the tools, systems, and creative projects I’ve developed at ScanLAB.
+
+[![Renderer](Images/ScanLAB/Renderella/Main.webp)](Renderer)
+
+[![Framerate](Images/ScanLAB/Renderella/Main.jpg)](Framerate)
+
+[![High Detail](Images/ScanLAB/HighDetail/Main.png)](HighDetail)
+
+[![Variants](Images/ScanLAB/Variants/Main.jpg)](Variants)
+
+[![Live Action](Images/ScanLAB/LiveAction/Main.png)](LiveAction)
+
+[![XR](Images/ScanLAB/XR/Main.webp)](XR)
+
+[![Web](Images/ScanLAB/Web/Main.png)](Web)
+
 
 # Recent Stuff
 
 Here you'll find my current side projects, brimming with fresh ideas and cutting-edge creativity.
 
+[![SVGF](Images/Home/SVGF.PNG)](SVGF)
 
 [![Path Tracing Blog Posts](Images/Home/GPUPT.png)](GPUPT)
 
@@ -35,7 +53,6 @@ Here you'll find my current side projects, brimming with fresh ideas and cutting
 
 [![Media Lab](Images/Home/Lab.PNG)](Lab)
 
-[![SVGF](Images/Home/SVGF.PNG)](SVGF)
 
 
 # Older Stuff
