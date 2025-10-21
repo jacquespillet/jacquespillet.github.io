@@ -37,7 +37,7 @@ Below is a look at some of the tools, systems, and creative projects I’ve deve
 [![Web](Images/ScanLAB/Web/Main.png)](Web)
 
 
-# Recent Stuff
+# Recent Projects (Personnal)
 
 Here you'll find my current side projects, brimming with fresh ideas and cutting-edge creativity.
 
@@ -55,7 +55,7 @@ Here you'll find my current side projects, brimming with fresh ideas and cutting
 
 
 
-# Older Stuff
+# Older Projects (Personal)
 
 These are some of my older projects that may not be front and center, but still hold a special place for me.
 
