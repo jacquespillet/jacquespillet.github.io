@@ -1,3 +1,5 @@
+# Renderer
+
 One of my core roles at ScanLAB is designing and maintaining the studio’s in-house rendering engine — the backbone of their entire production pipeline.
 
 This custom engine handles everything from advanced point cloud processing to final rendering, enabling the team to transform raw 3D data into the distinctive visual style that defines ScanLAB’s work.

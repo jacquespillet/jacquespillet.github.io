@@ -8,7 +8,7 @@ I specialize in designing performant, creative and technically challenging softw
 Here, you'll find a showcase of what I've been up to at ScanLAB, and also some side projects I've been working on in my spare time.
 
 I'm currently available for freelance collaborations.
-If you’re looking for help on a project - development, creative tech, or something in between - I’d love to hear from you at jacquespillet5@gmail.com
+If you’re looking for help on a project (development, creative tech, or something in between) I’d love to hear from you at jacquespillet5@gmail.com
 
 Thanks for stopping by!
 
@@ -24,9 +24,9 @@ Below is a look at some of the tools, systems, and creative projects I’ve deve
 
 [![Renderer](Images/ScanLAB/Renderella/Main.webp)](Renderer)
 
-[![Framerate](Images/ScanLAB/Renderella/Main.jpg)](Framerate)
+[![Framerate](Images/ScanLAB/Framerate/Main.jpg)](Framerate)
 
-[![High Detail](Images/ScanLAB/HighDetail/Main.png)](HighDetail)
+[![High Detail](Images/ScanLAB/HighDetail/main.png)](HighDetail)
 
 [![Variants](Images/ScanLAB/Variants/Main.jpg)](Variants)
 
