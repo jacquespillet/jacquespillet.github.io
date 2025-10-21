@@ -1,6 +1,6 @@
 # Renderer
 
-One of my core roles at ScanLAB is designing and maintaining the studio’s in-house rendering engine — the backbone of their entire production pipeline.
+One of my core roles at ScanLAB is designing and maintaining the studio’s in-house rendering engine - the backbone of their entire production pipeline.
 
 This custom engine handles everything from advanced point cloud processing to final rendering, enabling the team to transform raw 3D data into the distinctive visual style that defines ScanLAB’s work.
 
@@ -8,8 +8,11 @@ It empowers artists to build complex 3D environments and produce visually striki
 
 While I can’t share technical details publicly, the system is highly optimized and built to handle demanding production-scale workloads with very good performance.
 
-Here are some renders and photos of the images rendered by the software. 
+Technologies used : 
 
+c++, python, Qt, OpenGL, OpenCL, OpenCV, PCL, and many more...
+
+Below are some renders and photos of the images rendered by the software. 
 
 ![Image](Images/ScanLAB/Renderella/SHOT-05_SOANE.7mZbuel1_79MwK.webp)
 

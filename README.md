@@ -18,7 +18,7 @@ Thanks for stopping by!
 
 # ScanLAB Projects
 
-At ScanLAB, I’ve spent the past years building the creative and technical backbone of our projects — from real-time visualization tools to large-scale interactive installations.
+At ScanLAB, I’ve spent the past years building the studio’s technical backbone — leading development of our in-house rendering engine, plus real-time visualization tools, playback/synchronization systems, and production infrastructure.
 
 Below is a look at some of the tools, systems, and creative projects I’ve developed at ScanLAB.
 
