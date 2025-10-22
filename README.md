@@ -3,9 +3,15 @@
 
 I'm Jacques, a software developper based in Marseille, France. 
 
-I specialize in designing performant, creative and technically challenging software, mainly for [ScanLAB Projects](https://scanlabprojects.co.uk/), but I’m always keen to explore projects of all kinds.
+I specialize in designing performant, creative and technically challenging software, mainly for [ScanLAB Projects](https://scanlabprojects.co.uk/).
 
-Here, you'll find a showcase of what I've been up to at ScanLAB, and also some side projects I've been working on in my spare time.
+Over the years, I’ve specialized in building cross-platform desktop applications, primarily in the field of computer graphics, using C++ and Python.
+
+I also have hands-on experience with a wide range of other technologies — from web development (JavaScript, TypeScript, WebGL, Three.js...) to mobile applications (Unity, Flutter) and game engines (Unity, Godot, Unreal).
+
+Naturally curious, I’m always eager to learn new technologies and explore new technical challenges.
+
+Here, you'll find a showcase of what I've been up to at my job at ScanLAB, and also some side projects I've been working on in my spare time.
 
 I'm currently available for freelance collaborations.
 If you’re looking for help on a project (development, creative tech, or something in between) I’d love to hear from you at [jacquespillet5@gmail.com](jacquespillet5@gmail.com)
@@ -19,8 +25,8 @@ Thanks for stopping by!
 [mail](jacquespillet5@gmail.com)
 
 
-<details open>
-<summary><h1>ScanLAB Projects</h1></summary>
+<details>
+<summary><h1 style="display: inline;">ScanLAB Projects</h1></summary>
 
 At ScanLAB, I've spent the past years building the studio's technical backbone - leading development of our in-house rendering engine,  real-time visualization tools, playback/synchronization systems, and production infrastructure.
 
@@ -64,7 +70,7 @@ Below is a look at some of the software I've developed at ScanLAB.
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="Web">
         <img src="Images/ScanLAB/Web/Main.png" alt="Web" width="400"/>
       </a>
@@ -74,8 +80,8 @@ Below is a look at some of the software I've developed at ScanLAB.
 
 </details>
 
-<details open>
-<summary><h1>Recent Projects (Personal)</h1></summary>
+<details>
+<summary><h1 style="display: inline;">Recent Projects (Personal)</h1></summary>
 
 Here you'll find my current side projects, brimming with fresh ideas and cutting-edge creativity.
 
@@ -120,8 +126,8 @@ Here you'll find my current side projects, brimming with fresh ideas and cutting
 
 </details>
 
-<details open>
-<summary><h1>Older Projects (Personal)</h1></summary>
+<details>
+<summary><h1 style="display: inline;">Older Projects (Personal)</h1></summary>
 
 These are some of my older projects that may not be front and center, but still hold a special place for me.
 
@@ -151,7 +157,7 @@ These are some of my older projects that may not be front and center, but still 
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="Misc">
         <img src="Images/Home/Misc.PNG" alt="Misc" width="400"/>
       </a>
