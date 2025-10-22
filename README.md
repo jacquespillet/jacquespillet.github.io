@@ -19,9 +19,10 @@ Thanks for stopping by!
 [mail](jacquespillet5@gmail.com)
 
 
-# ScanLAB Projects
+<details open>
+<summary><h1>ScanLAB Projects</h1></summary>
 
-At ScanLAB, I’ve spent the past years building the studio’s technical backbone - leading development of our in-house rendering engine,  real-time visualization tools, playback/synchronization systems, and production infrastructure.
+At ScanLAB, I've spent the past years building the studio's technical backbone - leading development of our in-house rendering engine,  real-time visualization tools, playback/synchronization systems, and production infrastructure.
 
 Below is a look at some of the software I've developed at ScanLAB.
 
@@ -71,8 +72,10 @@ Below is a look at some of the software I've developed at ScanLAB.
   </tr>
 </table>
 
+</details>
 
-# Recent Projects (Personnal)
+<details open>
+<summary><h1>Recent Projects (Personal)</h1></summary>
 
 Here you'll find my current side projects, brimming with fresh ideas and cutting-edge creativity.
 
@@ -115,9 +118,10 @@ Here you'll find my current side projects, brimming with fresh ideas and cutting
   </tr>
 </table>
 
+</details>
 
-
-# Older Projects (Personal)
+<details open>
+<summary><h1>Older Projects (Personal)</h1></summary>
 
 These are some of my older projects that may not be front and center, but still hold a special place for me.
 
@@ -154,3 +158,5 @@ These are some of my older projects that may not be front and center, but still 
     </td>
   </tr>
 </table>
+
+</details>
