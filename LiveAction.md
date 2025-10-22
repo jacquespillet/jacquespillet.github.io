@@ -14,11 +14,11 @@ Here are some visuals from those captures:
 
 Pistol : 
 
-![image](Images/LiveAction/Pistols/187_LonelyBoy_WebsiteImage_03_.png)
+![image](Images/ScanLAB/LiveAction/Pistols/187_LonelyBoy_WebsiteImage_03_.png)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
-![image](Images/LiveAction/Pistols/187_LonelyBoy_WebsiteImage_01.jpg)
+![image](Images/ScanLAB/LiveAction/Pistols/187_LonelyBoy_WebsiteImage_01.jpg)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
@@ -32,11 +32,11 @@ https://www.unionvfx.com/work/pistol/
 
 Adult Children : 
 
-![image](Images/LiveAction/AdultChildren/AdultChildren_Co-created-by-Ella-Hickson-Sacha-Wares-and-ScanLAB-Projects-scaled.jpg)
+![image](Images/ScanLAB/LiveAction/AdultChildren/AdultChildren_Co-created-by-Ella-Hickson-Sacha-Wares-and-ScanLAB-Projects-scaled.jpg)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
-![image](Images/LiveAction/AdultChildren/adultchildren--body.DYIUCJpd_1wt4E7.webp)
+![image](Images/ScanLAB/LiveAction/AdultChildren/adultchildren--body.DYIUCJpd_1wt4E7.webp)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 

@@ -17,7 +17,7 @@ Built a high-quality real-time rendering system tailored for large-scale point c
 This piece was shown in major international venues, such as BFI London Film Festival, SXSW, CPH:DOX, and more.
 
 
-![image](Images/LiveAction/XR/EtRet/eternal-return-04.muelmYa6_ZmzwJf.webp)
+![image](Images/ScanLAB/LiveAction/XR/EtRet/eternal-return-04.muelmYa6_ZmzwJf.webp)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
@@ -35,7 +35,7 @@ Developed a new rendering pipeline for Oculus Quest 1 & 2, optimized for mobile 
 Balanced performance and visual fidelity for immersive, real-time point cloud rendering on standalone VR hardware.
 
 
-![image](Images/LiveAction/XR/BuriedInTheRocks/XRMust_IDFA_BuriedRock.jpg)
+![image](Images/ScanLAB/LiveAction/XR/BuriedInTheRocks/XRMust_IDFA_BuriedRock.jpg)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 

@@ -8,7 +8,7 @@ This project was developed in close collaboration with Pierre Huyghe’s technic
 
 Technologies: Unity, C#, HLSL shaders
 
-![image](Images/Variants/Pierre-kistefos-6_0197Modif.jpg)
+![image](Images/ScanLAB/Variants/Pierre-kistefos-6_0197Modif.jpg)
 
 *© Pierre Huyghe*
 

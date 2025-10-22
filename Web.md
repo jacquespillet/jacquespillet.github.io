@@ -9,15 +9,15 @@ Technologies : TypeScript, Three.js, WebGL, glsl
 Here are a few shots of the content :
 
 
-![image](Images/LiveAction/Web/EtRet/PictureRoom_0.png)
+![image](Images/ScanLAB/LiveAction/Web/EtRet/PictureRoom_0.png)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
-![image](Images/LiveAction/Web/EtRet/PictureRoom_1.png)
+![image](Images/ScanLAB/LiveAction/Web/EtRet/PictureRoom_1.png)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
-![image](Images/LiveAction/Web/EtRet/DrawingOffice.png)
+![image](Images/ScanLAB/LiveAction/Web/EtRet/DrawingOffice.png)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
