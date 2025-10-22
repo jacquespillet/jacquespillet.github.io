@@ -13,7 +13,7 @@ If you’re looking for help on a project (development, creative tech, or someth
 Thanks for stopping by!
 
 [Linkedin](https://www.linkedin.com/in/jacques-pillet-87bb5697/) | 
-[Resume](https://github.com/jacquespillet/jacquespillet.github.io/raw/main/Resume.pdf) |
+[CV](https://github.com/jacquespillet/jacquespillet.github.io/raw/main/Resume.pdf) |
 [Blog](https://jacquespillet.blogspot.com/) |
 [github](https://github.com/jacquespillet/) | 
 [mail](jacquespillet5@gmail.com)
