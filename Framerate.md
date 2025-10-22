@@ -1,4 +1,4 @@
-Over the past few years, ScanLAB has been producing [Framerate](https://scanlabprojects.co.uk/projects/pulse-of-the-earth/) — a series of installations exhibited worldwide (SXSW, Venice Biennale, COP26, BFI London, PHI Centre, and more).
+Over the past few years, ScanLAB has been producing [Framerate](https://scanlabprojects.co.uk/projects/pulse-of-the-earth/) - a series of installations exhibited worldwide (SXSW, Venice Biennale, COP26, BFI London, PHI Centre, and more).
 
 From ScanLAB’s description:
 
@@ -6,7 +6,7 @@ From ScanLAB’s description:
 
 The installation features an array of synchronized screens displaying high-resolution point cloud timelapses that reveal both natural and human-driven transformations across landscapes.
 
-To support this, I engineered a robust playback infrastructure and a suite of custom video players capable of maintaining frame-perfect synchronization across multiple machines and displays. The system was designed for long-term, unattended operation — ensuring precise timing, resilience to network fluctuations, and consistent performance over months-long exhibitions.
+To support this, I engineered a robust playback infrastructure and a suite of custom video players capable of maintaining frame-perfect synchronization across multiple machines and displays. The system was designed for long-term, unattended operation - ensuring precise timing, resilience to network fluctuations, and consistent performance over months-long exhibitions.
 
 This playback system has since become a core component of all Framerate installations, enabling seamless, high-fidelity presentation of ScanLAB’s visual works.
 

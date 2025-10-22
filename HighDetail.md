@@ -1,6 +1,6 @@
 For the last Framerate iteration, ScanLAB captured timelapse photogrammetry of cacti, documenting their subtle growth and movement over time.
 
-This involved designing and operating two fully automated photogrammetry rigs capable of running continuously for weeks — even months in some cases — to capture images and generate 3D models with exceptional temporal detail.
+This involved designing and operating two fully automated photogrammetry rigs capable of running continuously for weeks - even months in some cases - to capture images and generate 3D models with exceptional temporal detail.
 
 The result produced some of the most visually striking and intricate imagery ScanLAB has ever created, in my opinion.
 

@@ -7,7 +7,7 @@ I specialize in designing performant, creative and technically challenging softw
 
 Over the years, I’ve specialized in building cross-platform desktop applications, primarily in the field of computer graphics, using C++ and Python.
 
-I also have hands-on experience with a wide range of other technologies — from web development (JavaScript, TypeScript, WebGL, Three.js...) to mobile applications (Unity, Flutter) and game engines (Unity, Godot, Unreal).
+I also have hands-on experience with a wide range of other technologies - from web development (JavaScript, TypeScript, WebGL, Three.js...) to mobile applications (Unity, Flutter) and game engines (Unity, Godot, Unreal).
 
 Naturally curious, I’m always eager to learn new technologies and explore new technical challenges.
 
