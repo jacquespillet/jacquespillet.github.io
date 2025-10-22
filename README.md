@@ -21,40 +21,99 @@ Thanks for stopping by!
 
 # ScanLAB Projects
 
-At ScanLAB, I’ve spent the past years building the studio’s technical backbone — leading development of our in-house rendering engine,  real-time visualization tools, playback/synchronization systems, and production infrastructure.
+At ScanLAB, I’ve spent the past years building the studio’s technical backbone - leading development of our in-house rendering engine,  real-time visualization tools, playback/synchronization systems, and production infrastructure.
 
-Below is a look at some of the software I’ve developed at ScanLAB.
+Below is a look at some of the software I've developed at ScanLAB.
 
-[![Renderer](Images/ScanLAB/Renderella/Main.webp)](Renderer)
-
-[![Framerate](Images/ScanLAB/Framerate/Main.jpg)](Framerate)
-
-[![High Detail](Images/ScanLAB/HighDetail/main.png)](HighDetail)
-
-[![Variants](Images/ScanLAB/Variants/Main.jpg)](Variants)
-
-[![Live Action](Images/ScanLAB/LiveAction/Main.png)](LiveAction)
-
-[![XR](Images/ScanLAB/XR/Main.webp)](XR)
-
-[![Web](Images/ScanLAB/Web/Main.png)](Web)
+<table>
+  <tr>
+    <td align="center">
+      <a href="Renderer">
+        <img src="Images/ScanLAB/Renderella/Main.webp" alt="Renderer" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="Framerate">
+        <img src="Images/ScanLAB/Framerate/Main.jpg" alt="Framerate" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="HighDetail">
+        <img src="Images/ScanLAB/HighDetail/main.png" alt="High Detail" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="Variants">
+        <img src="Images/ScanLAB/Variants/Main.jpg" alt="Variants" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="LiveAction">
+        <img src="Images/ScanLAB/LiveAction/Main.png" alt="Live Action" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="XR">
+        <img src="Images/ScanLAB/XR/Main.webp" alt="XR" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="Web">
+        <img src="Images/ScanLAB/Web/Main.png" alt="Web" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 # Recent Projects (Personnal)
 
 Here you'll find my current side projects, brimming with fresh ideas and cutting-edge creativity.
 
-[![SVGF](Images/Home/SVGF.PNG)](SVGF)
-
-[![Path Tracing Blog Posts](Images/Home/GPUPT.png)](GPUPT)
-
-[![Graphics Library (gfx)](Images/Home/gfx.PNG)](gfx)
-
-[![Vulkan](Images/Home/vulkan.PNG)](Vulkan)
-
-[![Graphics Experiments](Images/Home/Experiments.PNG)](Experiments)
-
-[![Media Lab](Images/Home/Lab.PNG)](Lab)
+<table>
+  <tr>
+    <td align="center">
+      <a href="SVGF">
+        <img src="Images/Home/SVGF.PNG" alt="SVGF" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="GPUPT">
+        <img src="Images/Home/GPUPT.png" alt="Path Tracing Blog Posts" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="gfx">
+        <img src="Images/Home/gfx.PNG" alt="Graphics Library (gfx)" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="Vulkan">
+        <img src="Images/Home/vulkan.PNG" alt="Vulkan" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Experiments">
+        <img src="Images/Home/Experiments.PNG" alt="Graphics Experiments" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="Lab">
+        <img src="Images/Home/Lab.PNG" alt="Media Lab" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -62,12 +121,36 @@ Here you'll find my current side projects, brimming with fresh ideas and cutting
 
 These are some of my older projects that may not be front and center, but still hold a special place for me.
 
-[![Toy Engine](Images/Home/Kikoo.PNG)](Engine)
-
-[![ThreeJS Experiments](Images/Home/Three.PNG)](Threejs)
-
-[![Physics Experiments](Images/Home/Physics.PNG)](Physics)
-
-[![Path Tracer](Images/Home/PT.PNG)](PathTracing)
-
-[![Misc](Images/Home/Misc.PNG)](Misc)
+<table>
+  <tr>
+    <td align="center">
+      <a href="Engine">
+        <img src="Images/Home/Kikoo.PNG" alt="Toy Engine" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="Threejs">
+        <img src="Images/Home/Three.PNG" alt="ThreeJS Experiments" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Physics">
+        <img src="Images/Home/Physics.PNG" alt="Physics Experiments" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="PathTracing">
+        <img src="Images/Home/PT.PNG" alt="Path Tracer" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="Misc">
+        <img src="Images/Home/Misc.PNG" alt="Misc" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
