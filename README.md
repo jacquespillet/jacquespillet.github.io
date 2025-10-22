@@ -23,7 +23,7 @@ Thanks for stopping by!
 [mail](jacquespillet5@gmail.com)
 
 
-<details>
+<!-- <details>
 <summary><h1 style="display: inline;">ScanLAB Projects</h1></summary>
 
 At ScanLAB, I've spent the past years building the studio's technical backbone - leading development of our in-house rendering engine,  real-time visualization tools, playback/synchronization systems, and production infrastructure.
@@ -76,7 +76,7 @@ Below is a look at some of the software I've developed at ScanLAB.
   </tr>
 </table>
 
-</details>
+</details> -->
 
 <details>
 <summary><h1 style="display: inline;">Recent Projects (Personal)</h1></summary>
