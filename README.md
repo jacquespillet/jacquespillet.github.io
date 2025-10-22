@@ -1,9 +1,7 @@
 
 # Hello !
 
-I'm Jacques, a software developper based in Marseille, France. 
-
-I specialize in designing performant, creative and technically challenging software, mainly for [ScanLAB Projects](https://scanlabprojects.co.uk/).
+I'm Jacques, a software developper based in Marseille (France), mainly for [ScanLAB Projects](https://scanlabprojects.co.uk/).
 
 Over the years, I’ve specialized in building cross-platform desktop applications, primarily in the field of computer graphics, using C++ and Python.
 
