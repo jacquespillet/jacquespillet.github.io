@@ -5,14 +5,14 @@ I'm Jacques, a software developper based in Marseille (France), mainly working f
 
 Over the years, I’ve specialized in building cross-platform desktop applications, primarily in the field of computer graphics, using C++ and Python.
 
-I also have hands-on experience with a wide range of other technologies - from web development (JavaScript, TypeScript, WebGL, Three.js...) to mobile applications (Unity, Flutter) and game engines (Unity, Godot, Unreal).
+I also have hands-on experience with a wide range of other technologies - from web development (JavaScript, Angular, node.js, WebGL, Three.js...) to mobile applications (Swift, Kotlin, Unity) and game engines (Unity, Godot, Unreal).
 
 Naturally curious, I’m always eager to learn new technologies and explore new technical challenges.
 
 Here, you'll find a showcase of what I've been up to at my job at ScanLAB, and also some side projects I've been working on in my spare time.
 
 I'm currently available for freelance collaborations.
-If you’re looking for help on a project (development, creative tech, or something in between) I’d love to hear from you at [jacquespillet5@gmail.com](jacquespillet5@gmail.com)
+If you’re looking for help on a project (development, creative tech, or something in between) I’d love to hear from you at [jacquespillet5@gmail.com](mailto:jacquespillet5@gmail.com)
 
 Thanks for stopping by!
 
@@ -20,7 +20,7 @@ Thanks for stopping by!
 [CV](https://github.com/jacquespillet/jacquespillet.github.io/raw/main/Resume.pdf) |
 [Blog](https://jacquespillet.blogspot.com/) |
 [github](https://github.com/jacquespillet/) | 
-[mail](jacquespillet5@gmail.com)
+[mail](mailto:jacquespillet5@gmail.com)
 
 
 <details>
