@@ -1,4 +1,4 @@
-# LIve Action
+# Live Action
 
 Several projects at ScanLAB explored real-time volumetric point cloud capture using depth sensors such as the Azure Kinect and Intel RealSense. These captured performances were then integrated into our visuals to create expressive, animated 3D scenes.
 
@@ -14,7 +14,7 @@ Technologies: C++, OpenGL, Azure Kinect, Intel RealSense
 
 Here are some visuals from those captures:
 
-Pistol : 
+## Pistol : 
 
 ![image](../Images/ScanLAB/LiveAction/Pistols/187_LonelyBoy_WebsiteImage_03_.png)
 
@@ -32,7 +32,7 @@ Links :
 
 
 
-Adult Children : 
+## Adult Children : 
 
 ![image](../Images/ScanLAB/LiveAction/AdultChildren/AdultChildren_Co-created-by-Ella-Hickson-Sacha-Wares-and-ScanLAB-Projects-scaled.jpg)
 

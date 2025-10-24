@@ -8,9 +8,10 @@ I also contributed directly to the development of the immersive pieces, collabor
 
 Technonolgies : Unity, c#, hlsl
 
-Key Projects:
 
-Eternal Return - A collaboration between ScanLAB Projects and Swedish artist duo Lundahl & Seitl.
+## Eternal Return 
+
+A collaboration between ScanLAB Projects and Swedish artist duo Lundahl & Seitl.
 
 Focused on the rendering backend for HTC Vive devices.
 
@@ -30,7 +31,9 @@ Links :
 [Lundahl & Seitl](https://lundahl-seitl.minerva2.vscmedia.com/work/eternal-return)
 
 
-Buried in the Rocks - Described by ScanLAB as “a novel form of VR documentary: a portrait of a place and the people that know it best.”
+## Buried in the Rocks#
+
+Described by ScanLAB as “a novel form of VR documentary: a portrait of a place and the people that know it best.”
 
 Developed a new rendering pipeline for Oculus Quest 1 & 2, optimized for mobile GPUs.
 

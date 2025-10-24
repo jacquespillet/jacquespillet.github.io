@@ -14,15 +14,15 @@ Here are a some visuals from these high-detail timelapses :
 
 ![Image](..\Images\ScanLAB\HighDetail\Desertpulse--body6.BGxhIskx_1l6rPc.webp)
 
-*© [ScanLAB Projects](https://www.scanlabprojects.co.uk)
+*© [ScanLAB Projects](https://www.scanlabprojects.co.uk)*
 
 ![Image](..\Images\ScanLAB\HighDetail\Desertpulse--body7.Cxb_Fezo_9UFrI.webp)
 
-*© [ScanLAB Projects](https://www.scanlabprojects.co.uk)
+*© [ScanLAB Projects](https://www.scanlabprojects.co.uk)*
 
 ![Image](..\Images\ScanLAB\HighDetail\Desertpulse--body5.DsTke6CQ_1BMSKe.webp)
 
-*© [ScanLAB Projects](https://www.scanlabprojects.co.uk)
+*© [ScanLAB Projects](https://www.scanlabprojects.co.uk)*
 
 ![Image](..\Images\ScanLAB\HighDetail\ScanLABProjects_Opening_Calyx_RPW_Portrait_2.jpg)
 
