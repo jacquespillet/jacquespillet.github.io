@@ -23,7 +23,7 @@ Thanks for stopping by!
 [mail](jacquespillet5@gmail.com)
 
 
-<!-- <details>
+<details>
 <summary><h1 style="display: inline;">ScanLAB Projects</h1></summary>
 
 At ScanLAB, I've spent the past years building the studio's technical backbone - leading development of our in-house rendering engine,  real-time visualization tools, playback/synchronization systems, and production infrastructure.
@@ -45,25 +45,25 @@ Below is a look at some of the software I've developed at ScanLAB.
   </tr>
   <tr>
     <td align="center">
-      <a href="HighDetail">
-        <img src="Images/ScanLAB/HighDetail/main.png" alt="High Detail" width="400"/>
+      <a href="3DViewer">
+        <img src="Images/ScanLAB/Renderella/Main_Viewer.png" alt="3DViewer" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="Variants">
-        <img src="Images/ScanLAB/Variants/Main.jpg" alt="Variants" width="400"/>
+      <a href="HighDetail">
+        <img src="Images/ScanLAB/HighDetail/main.png" alt="High Detail" width="400"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="LiveAction">
-        <img src="Images/ScanLAB/LiveAction/Main.png" alt="Live Action" width="400"/>
+      <a href="Variants">
+        <img src="Images/ScanLAB/Variants/Main.jpg" alt="Variants" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="XR">
-        <img src="Images/ScanLAB/XR/Main.webp" alt="XR" width="400"/>
+      <a href="LiveAction">
+        <img src="Images/ScanLAB/LiveAction/Main.png" alt="Live Action" width="400"/>
       </a>
     </td>
   </tr>
@@ -73,10 +73,15 @@ Below is a look at some of the software I've developed at ScanLAB.
         <img src="Images/ScanLAB/Web/Main.png" alt="Web" width="400"/>
       </a>
     </td>
+    <td align="center">
+      <a href="XR">
+        <img src="Images/ScanLAB/XR/Main.webp" alt="XR" width="400"/>
+      </a>
+    </td>
   </tr>
 </table>
 
-</details> -->
+</details>
 
 <details>
 <summary><h1 style="display: inline;">Recent Projects (Personal)</h1></summary>
