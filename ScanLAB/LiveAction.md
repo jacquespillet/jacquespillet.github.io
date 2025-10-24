@@ -1,3 +1,5 @@
+# LIve Action
+
 Several projects at ScanLAB explored real-time volumetric point cloud capture using depth sensors such as the Azure Kinect and Intel RealSense. These captured performances were then integrated into our visuals to create expressive, animated 3D scenes.
 
 I developed a custom 3D capture system capable of recording volumetric data from multiple devices simultaneously, aligning and merging their feeds into coherent, high-frame-rate animated point clouds. The result was a flexible, high-fidelity capture pipeline that became a key part of ScanLAB’s creative toolkit.
@@ -14,17 +16,17 @@ Here are some visuals from those captures:
 
 Pistol : 
 
-![image](Images/ScanLAB/LiveAction/Pistols/187_LonelyBoy_WebsiteImage_03_.png)
+![image](../Images/ScanLAB/LiveAction/Pistols/187_LonelyBoy_WebsiteImage_03_.png)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
-![image](Images/ScanLAB/LiveAction/Pistols/187_LonelyBoy_WebsiteImage_01.jpg)
+![image](../Images/ScanLAB/LiveAction/Pistols/187_LonelyBoy_WebsiteImage_01.jpg)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
 Links : 
 
-https://www.unionvfx.com/work/pistol/
+[Union VFX Breakdown](https://www.unionvfx.com/work/pistol/)
 
 
 
@@ -32,21 +34,21 @@ https://www.unionvfx.com/work/pistol/
 
 Adult Children : 
 
-![image](Images/ScanLAB/LiveAction/AdultChildren/AdultChildren_Co-created-by-Ella-Hickson-Sacha-Wares-and-ScanLAB-Projects-scaled.jpg)
+![image](../Images/ScanLAB/LiveAction/AdultChildren/AdultChildren_Co-created-by-Ella-Hickson-Sacha-Wares-and-ScanLAB-Projects-scaled.jpg)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
-![image](Images/ScanLAB/LiveAction/AdultChildren/adultchildren--body.DYIUCJpd_1wt4E7.webp)
+![image](../Images/ScanLAB/LiveAction/AdultChildren/adultchildren--body.DYIUCJpd_1wt4E7.webp)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
 Links : 
 
-https://ett.org.uk/our-work/adult-children/
+[English Touring Theatre](https://ett.org.uk/our-work/adult-children/)
 
-https://scanlabprojects.co.uk/projects/adult-children/
+[ScanLAB Projects](https://scanlabprojects.co.uk/projects/adult-children/)
 
-https://www.nowness.com/story/LFF-adult-childen
+[Nowness](https://www.nowness.com/story/LFF-adult-childen)
 
 
 

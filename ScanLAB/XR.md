@@ -1,3 +1,5 @@
+# XR
+
 ScanLAB explores the use of point clouds as a creative medium for XR experiences.
 
 My role was to design and implement a rendering framework optimized for various target platforms, enabling real-time point cloud rendering while maintaining ScanLAB’s signature aesthetic.
@@ -17,15 +19,15 @@ Built a high-quality real-time rendering system tailored for large-scale point c
 This piece was shown in major international venues, such as BFI London Film Festival, SXSW, CPH:DOX, and more.
 
 
-![image](Images/ScanLAB/LiveAction/XR/EtRet/eternal-return-04.muelmYa6_ZmzwJf.webp)
+![image](../Images/ScanLAB/XR/EtRet/eternal-return-04.muelmYa6_ZmzwJf.webp)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
 Links : 
 
-https://scanlabprojects.co.uk/projects/eternal-return/
+[ScanLAB Projects](https://scanlabprojects.co.uk/projects/eternal-return/)
 
-https://lundahl-seitl.minerva2.vscmedia.com/work/eternal-return
+[Lundahl & Seitl](https://lundahl-seitl.minerva2.vscmedia.com/work/eternal-return)
 
 
 Buried in the Rocks - Described by ScanLAB as “a novel form of VR documentary: a portrait of a place and the people that know it best.”
@@ -35,11 +37,11 @@ Developed a new rendering pipeline for Oculus Quest 1 & 2, optimized for mobile 
 Balanced performance and visual fidelity for immersive, real-time point cloud rendering on standalone VR hardware.
 
 
-![image](Images/ScanLAB/LiveAction/XR/BuriedInTheRocks/XRMust_IDFA_BuriedRock.jpg)
+![image](../Images/ScanLAB/XR/BuriedInTheRocks/XRMust_IDFA_BuriedRock.jpg)
 
 *© [ScanLAB Projects](https://scanlabprojects.co.uk/).*
 
 Links : 
 
-https://scanlabprojects.co.uk/projects/buried-in-the-rock/
+[ScanLAB Projects](https://scanlabprojects.co.uk/projects/buried-in-the-rock/)
 

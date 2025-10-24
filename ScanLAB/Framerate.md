@@ -1,3 +1,5 @@
+# Framerate Playback
+
 Over the past few years, ScanLAB has been producing [Framerate](https://scanlabprojects.co.uk/projects/pulse-of-the-earth/) - a series of installations exhibited worldwide (SXSW, Venice Biennale, COP26, BFI London, PHI Centre, and more).
 
 From ScanLAB’s description:
@@ -16,22 +18,33 @@ Technologies used : c++, python, Qt, ffmpeg
 
 Below are some photos taken during installations of Framerate in Phoenix: 
 
-![Image](Images\ScanLAB\Framerate\ScanLABProjects_Opening_Gallery_RPW_Portrait_5.jpg)
+![Image](..\Images\ScanLAB\Framerate\ScanLABProjects_Opening_Gallery_RPW_Portrait_5.jpg)
 
 *© [polymathphoto](https://www.instagram.com/polymathphoto).*
 
-![Image](Images\ScanLAB\Framerate\ScanLABProjects_Opening_Gallery_2.jpg)
+![Image](..\Images\ScanLAB\Framerate\ScanLABProjects_Opening_Gallery_2.jpg)
 
 *© [polymathphoto](https://www.instagram.com/polymathphoto).*
 
-![Image](Images\ScanLAB\Framerate\ScanLABProjects_Opening_Gallery_5.jpg)
+![Image](..\Images\ScanLAB\Framerate\ScanLABProjects_Opening_Gallery_5.jpg)
 
 *© [polymathphoto](https://www.instagram.com/polymathphoto).*
 
-![Image](Images\ScanLAB\Framerate\ScanLABProjects_Opening_Calyx_RPW_Portrait_1.jpg)
+![Image](..\Images\ScanLAB\Framerate\ScanLABProjects_Opening_Calyx_RPW_Portrait_1.jpg)
 
 *© [polymathphoto](https://www.instagram.com/polymathphoto).*
 
-![Image](Images\ScanLAB\Framerate\ScanLABProjects_Opening_Horizon_RPW_Portrait_4.jpg)
+![Image](..\Images\ScanLAB\Framerate\ScanLABProjects_Opening_Horizon_RPW_Portrait_4.jpg)
 
 *© [polymathphoto](https://www.instagram.com/polymathphoto).*
+
+
+Links : 
+
+[Desert Botanical Garden](https://dbg.org/desertpulse/)
+
+[New York Times](https://www.nytimes.com/2025/10/15/arts/design/climate-change-art-museum.html)
+
+[Financial Times](https://www.ft.com/content/d9df8e76-f2d9-4069-b494-140e993fce9f)
+
+[Southwest Contemporary](https://southwestcontemporary.com/scanlab-projects-framerate-desert-pulse/)

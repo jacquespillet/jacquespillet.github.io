@@ -33,48 +33,48 @@ Below is a look at some of the software I've developed at ScanLAB.
 <table>
   <tr>
     <td align="center">
-      <a href="Renderer">
+      <a href="ScanLAB/Renderer">
         <img src="Images/ScanLAB/Renderella/Main.webp" alt="Renderer" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="Framerate">
+      <a href="ScanLAB/Framerate">
         <img src="Images/ScanLAB/Framerate/Main.jpg" alt="Framerate" width="400"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="3DViewer">
+      <a href="ScanLAB/Viewer">
         <img src="Images/ScanLAB/Renderella/Main_Viewer.png" alt="3DViewer" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="HighDetail">
+      <a href="ScanLAB/HighDetail">
         <img src="Images/ScanLAB/HighDetail/main.png" alt="High Detail" width="400"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="Variants">
+      <a href="ScanLAB/Variants">
         <img src="Images/ScanLAB/Variants/Main.jpg" alt="Variants" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="LiveAction">
+      <a href="ScanLAB/LiveAction">
         <img src="Images/ScanLAB/LiveAction/Main.png" alt="Live Action" width="400"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="Web">
+      <a href="ScanLAB/Web">
         <img src="Images/ScanLAB/Web/Main.png" alt="Web" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="XR">
+      <a href="ScanLAB/XR">
         <img src="Images/ScanLAB/XR/Main.webp" alt="XR" width="400"/>
       </a>
     </td>
@@ -89,36 +89,36 @@ Below is a look at some of the software I've developed at ScanLAB.
 <table>
   <tr>
     <td align="center">
-      <a href="SVGF">
+      <a href="New/SVGF">
         <img src="Images/Home/SVGF.PNG" alt="SVGF" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="GPUPT">
+      <a href="New/GPUPT">
         <img src="Images/Home/GPUPT.png" alt="Path Tracing Blog Posts" width="400"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="gfx">
+      <a href="New/gfx">
         <img src="Images/Home/gfx.PNG" alt="Graphics Library (gfx)" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="Vulkan">
+      <a href="New/Vulkan">
         <img src="Images/Home/vulkan.PNG" alt="Vulkan" width="400"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="Experiments">
+      <a href="New/Experiments">
         <img src="Images/Home/Experiments.PNG" alt="Graphics Experiments" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="Lab">
+      <a href="New/Lab">
         <img src="Images/Home/Lab.PNG" alt="Media Lab" width="400"/>
       </a>
     </td>
@@ -133,31 +133,31 @@ Below is a look at some of the software I've developed at ScanLAB.
 <table>
   <tr>
     <td align="center">
-      <a href="Engine">
+      <a href="Old/Engine">
         <img src="Images/Home/Kikoo.PNG" alt="Toy Engine" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="Threejs">
+      <a href="Old/Threejs">
         <img src="Images/Home/Three.PNG" alt="ThreeJS Experiments" width="400"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="Physics">
+      <a href="Old/Physics">
         <img src="Images/Home/Physics.PNG" alt="Physics Experiments" width="400"/>
       </a>
     </td>
     <td align="center">
-      <a href="PathTracing">
+      <a href="Old/PathTracing">
         <img src="Images/Home/PT.PNG" alt="Path Tracer" width="400"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="Misc">
+      <a href="Old/Misc">
         <img src="Images/Home/Misc.PNG" alt="Misc" width="400"/>
       </a>
     </td>
