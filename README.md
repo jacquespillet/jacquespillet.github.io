@@ -86,6 +86,8 @@ Below is a look at some of the software I've developed at ScanLAB.
 <details>
 <summary><h1 style="display: inline;">Recent Projects (Personal)</h1></summary>
 
+These are some of the recent projects I’ve been working on over the past few years - each one carefully documented to highlight the process and technical insights behind it.
+
 <table>
   <tr>
     <td align="center">
@@ -129,6 +131,8 @@ Below is a look at some of the software I've developed at ScanLAB.
 
 <details>
 <summary><h1 style="display: inline;">Older Projects (Personal)</h1></summary>
+
+A collection of older, more experimental projects, not as well-documented but still fun glimpses into my past explorations.
 
 <table>
   <tr>

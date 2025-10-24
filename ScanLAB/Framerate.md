@@ -48,3 +48,6 @@ Links :
 [Financial Times](https://www.ft.com/content/d9df8e76-f2d9-4069-b494-140e993fce9f)
 
 [Southwest Contemporary](https://southwestcontemporary.com/scanlab-projects-framerate-desert-pulse/)
+
+[Venice Biennale](https://www.labiennale.org/en/cinema/2022/venice-immersive/framerate-pulse-earth)
+

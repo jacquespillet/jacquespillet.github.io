@@ -14,12 +14,12 @@ It has some cool features like :
 * Triangle mesh loading
 * A few different materials (Glossy BRDF, Dielectrics, diffuse)
 
-<img src="Images/Raytracer/Toy_0.png"/>
-<img src="Images/Raytracer/Toy_1.png"/>
-<img src="Images/Raytracer/Toy_2.png"/>
-<img src="Images/Raytracer/Toy_3.png"/>
-<img src="Images/Raytracer/Toy_4.png"/>
-<img src="Images/Raytracer/Toy_5.png"/>
+<img src="../Images/Raytracer/Toy_0.png"/>
+<img src="../Images/Raytracer/Toy_1.png"/>
+<img src="../Images/Raytracer/Toy_2.png"/>
+<img src="../Images/Raytracer/Toy_3.png"/>
+<img src="../Images/Raytracer/Toy_4.png"/>
+<img src="../Images/Raytracer/Toy_5.png"/>
 -----
 
 
@@ -31,8 +31,8 @@ At the moment, it can just render spheres, and has 3 materials (Diffuse, specula
 
 It uses a bounding volume hierarchy to accelerate the process.
 
-<img src="Images/Raytracer/0.bmp"/>
-<img src="Images/Raytracer/1.bmp"/>
-<img src="Images/Raytracer/2.bmp"/>
-<img src="Images/Raytracer/3.bmp"/>
+<img src="../Images/Raytracer/0.bmp"/>
+<img src="../Images/Raytracer/1.bmp"/>
+<img src="../Images/Raytracer/2.bmp"/>
+<img src="../Images/Raytracer/3.bmp"/>
 
